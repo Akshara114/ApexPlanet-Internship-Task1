@@ -1,0 +1,26 @@
+column_name,data_type,description,example_values,business_relevance,source_notes
+order_id,string,Unique identifier for each sales order,ORD-10000,Primary key — used for deduplication and order tracking,System generated
+customer_name,string (nullable),Full name of the customer,Priya Sharma,Used for customer profiling and personalisation,May be null for guest checkouts
+email,string (nullable),Customer email address,priya@email.com,Primary contact channel; marketing segmentation,~4% missing in raw data
+phone,string (nullable),Customer phone number,-9876543119,Secondary contact channel; used for delivery updates,~8% missing; multiple formats in raw data
+date_of_birth,date (YYYY-MM-DD),Customer's date of birth,14-05-1990,Used to derive customer_age and age_group,All records present
+customer_age,integer (derived),Age of customer calculated from DOB relative to 2025-01-01,34,Demographic segmentation; age-based promotions,Engineered feature
+age_group,category (derived),Binned age bracket of the customer,25-34,Cohort analysis and targeted campaigns,Engineered feature — bins: 18-24 / 25-34 / 35-44 / 45-54 / 55+
+gender,category,Standardised gender of customer,Male / Female / Other / Unspecified,Gender-based product recommendations,Raw data had mixed case and abbreviations (M/F/male etc.)
+order_date,date (YYYY-MM-DD),Date the order was placed,15-08-2023,Time series analysis; seasonality and trend detection,Raw data had 4 different formats — all standardised to ISO 8601
+order_year,integer (derived),Calendar year extracted from order_date,2023,Annual performance comparisons,Engineered feature
+order_month,integer (derived),Calendar month extracted from order_date (1–12),8,Monthly sales trends and seasonality,Engineered feature
+order_quarter,integer (derived),Calendar quarter extracted from order_date (1–4),3,Quarterly business reporting,Engineered feature
+product_name,string,Name or description of the product ordered,Advanced Markets Synergy,Product-level sales analysis,Free-text field; no cleaning applied
+category,category,Standardised product category,Electronics / Clothing / Books / Home & Kitchen / Sports,Category-level revenue and demand analysis,Raw data had case inconsistencies and typos (e.g. 'Clothng') — standardised
+unit_price,float (INR),Price per unit of the product after outlier treatment,2499,Revenue calculation; pricing strategy,Outliers clipped via IQR method; negative and extreme values removed
+quantity,integer,Number of units ordered after outlier treatment,3,Demand forecasting; inventory planning,Outliers (0 / negative / 500) clipped via IQR method
+discount_pct,float (0.00–0.50),Fractional discount applied to the order (e.g. 0.15 = 15%),0.2,Promotion effectiveness analysis; margin calculation,~20% missing in raw — imputed with median (0.26)
+total_revenue,float (INR) (derived),Net revenue = unit_price × quantity × (1 − discount_pct),5978.4,Core KPI — business performance measurement,Engineered feature; null where unit_price or quantity were null
+payment_method,category,Standardised payment method used,Credit Card / Debit Card / UPI / Net Banking / Cash on Delivery,Payment channel analysis; fraud detection,Raw data had case variants and abbreviations (COD → Cash on Delivery)
+order_status,category,Current status of the order,Delivered / Shipped / Pending / Returned / Cancelled / Unknown,Fulfilment tracking; churn and return analysis,~18% missing — filled with 'Unknown'
+return_flag,boolean,Whether the order was returned (True/False),TRUE,Return rate KPI; product quality signals,Raw data had mixed strings (Yes/Y/yes/No/N) — standardised to boolean
+city,string (nullable),City of the customer's delivery address,Hyderabad,Geographic sales distribution,~3% missing; retained as-is
+state,string,State of the customer's delivery address,Telangana,Regional performance analysis,Fully populated
+pincode,string,Postal code of delivery address,500032,Hyperlocal delivery analysis; logistics planning,Fully populated
+has_contact_info,boolean (derived),True if at least one of email or phone is available,TRUE,Customer reachability for marketing,Engineered feature

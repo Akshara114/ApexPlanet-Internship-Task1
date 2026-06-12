@@ -1,0 +1,516 @@
+order_id,customer_name,email,phone,date_of_birth,gender,order_date,product_name,category,unit_price,quantity,discount_pct,payment_method,order_status,city,state,pincode,return_flag
+ORD-10000,Nirja Panchal,fitan79@example.com,1462984388,1997-06-29,male,2022-08-17,Expedite Plug-And-Play Communities,books,2749.56,1,,Debit Card,Shipped,Belgaum,Nagaland,278484,Yes
+ORD-10001,Triveni Nigam,jagvibassi@example.net,6129700487,1960-06-22,Male,12 Feb 2023,Utilize Vertical Relationships,Sports,3505.79,3,0.38,credit card,Delivered,Srikakulam,Goa,135504,yes
+ORD-10002,Neelima Patel,indiramallick@example.net,07509587191,2000-05-23,female,12-06-2023,Monetize Best-Of-Breed Systems,electronics,4155.55,6,0.35,Credit Card,,Ajmer,Manipur,200892,yes
+ORD-10003,Daksh Sule,dbava@example.net,3258267238,2005-09-20,Female,13/06/2022,Synergize Intuitive Partnerships,ELECTRONICS,1087.06,2,0.09,Debit Card,Shipped,Guntur,Tripura,397839,yes
+ORD-10004,Sai Saha,pratyushmaharaj@example.org,01067716040,1993-01-31,Male,03-26-2023,Scale Dynamic Systems,Sports,1375.32,10,,Cash on Delivery,Returned,Nagaon,Karnataka,018038,N
+ORD-10005,Mohini Bassi,pallavibutala@example.org,+917980473798,1988-12-05,MALE,28/07/2024,E-Enable World-Class Markets,BOOKS,4494.22,4,0.07,Cash on Delivery,Delivered,Kurnool,Maharashtra,962727,
+ORD-10006,Jeet Chandran,siya04@example.com,+918415093551,1965-04-10,male,13/08/2022,Deliver Enterprise Communities,Home & Kitchen,4980.8,9,0.01,credit card,,Amaravati,Goa,136811,
+ORD-10007,Ishaan Morar,ronith62@example.com,7308935063,2002-08-26,other,07-01-2023,Disintermediate Virtual Channels,BOOKS,2527.9,2,0.15,COD,Cancelled,Indore,Chhattisgarh,601750,yes
+ORD-10008,Gopal Raman,prabhakaroliver@example.com,+913078044098,1963-12-01,Female,2022-11-27,Generate Real-Time Functionalities,Sports & Outdoors,1235.29,10,0.04,Cash on Delivery,Delivered,Bongaigaon,Madhya Pradesh,916133,Y
+ORD-10009,Wriddhish Bhakta,hdugar@example.net,+919674064603,1999-12-26,f,15/09/2022,Productize Impactful Users,Sports & Outdoors,4823.6,4,0.2,upi,Returned,Jabalpur,Telangana,808844,no
+ORD-10010,Tristan Chander,watikayadav@example.org,09247060293,2000-10-25,m,05/09/2022,Monetize Collaborative Content,Books,401.42,4,,Credit Card,Pending,Pune,Jharkhand,360220,No
+ORD-10011,Balvan Hans,smani@example.org,2017010939,1968-09-18,FEMALE,25 Jul 2023,Iterate Rich Web Services,Books,3933.87,4,,Net Banking,Pending,Nanded,Jharkhand,455377,no
+ORD-10012,Kavya Ratti,osha89@example.org,9789101854,1988-02-05,male,2022-04-21,Envisioneer Best-Of-Breed Applications,Clothing,2704.61,3,0.12,credit card,Returned,Eluru,Andhra Pradesh,780040,
+ORD-10013,Indira Sule,iprabhu@example.com,,1988-07-09,male,2022-07-20,Drive 24/365 Methodologies,Sports,873.24,4,0.45,CREDIT CARD,Returned,,Uttarakhand,515492,no
+ORD-10014,Dhruv Dixit,patrick67@example.com,+913826432070,1980-04-14,,28 Jun 2023,Embrace Dynamic E-Tailers,home & kitchen,2459.02,4,0.29,COD,Delivered,Sambhal,Assam,628237,Yes
+ORD-10015,Reyansh Pai,banjeetkhurana@example.com,3456300564,1996-01-13,f,13 Apr 2022,Transform Magnetic Vortals,electronics,389.18,4,0.47,cod,Shipped,Gwalior,Arunachal Pradesh,206095,Yes
+ORD-10016,Vihaan Raj,ngour@example.net,+912335049629,1990-09-06,MALE,17 Jun 2022,Exploit Holistic E-Tailers,Clothing,1605.21,3,0.15,upi,Delivered,,Madhya Pradesh,404951,Y
+ORD-10017,Gagan D’Alia,zinalranganathan@example.org,00382237124,1982-05-02,Female,2022-07-24,Benchmark Distributed Mindshare,electronics,1879.16,9,0.31,COD,Delivered,Eluru,Rajasthan,780690,Y
+ORD-10018,Warjas Pradhan,mshanker@example.com,+911297335662,1968-06-27,male,2023-09-06,Re-Contextualize Proactive E-Business,BOOKS,1398.12,6,0.32,UPI,Cancelled,Chittoor,Assam,855578,
+ORD-10019,Gayathri Barad,balreva@example.org,,1971-09-18,Female,2022-04-15,Evolve Dynamic Applications,Sports,4900.0,8,0.21,Credit Card,Delivered,Korba,Maharashtra,346353,N
+ORD-10020,Gautam Kala,arya09@example.net,1458280185,1981-03-15,M,2022-11-02,Engage B2C Portals,Electronics,4499.96,1,0.11,Debit Card,,Hazaribagh,Kerala,989450,
+ORD-10021,Yachana Baral,simon93@example.com,+910019053224,1999-12-29,,12/04/2024,Reinvent Back-End Deliverables,Sports,2090.86,6,0.21,Debit Card,Pending,Karimnagar,Arunachal Pradesh,309322,N
+ORD-10022,Yash Arora,lsaxena@example.com,03444768155,1975-01-12,F,10 Aug 2022,Extend Synergistic Partnerships,Clothng,3986.96,1,0.2,UPI,Delivered,Vadodara,Punjab,769022,yes
+ORD-10023,Ladli Merchant,warriorranbir@example.net,2658461792,1998-11-20,Male,21 Dec 2023,Unleash Cross-Media Metrics,electronics,1343.02,5,,cod,Returned,Loni,Meghalaya,667630,
+ORD-10024,Wridesh Aurora,lekha99@example.net,03636789919,1991-05-29,FEMALE,05 Oct 2023,Scale Revolutionary Bandwidth,Clothing,3558.49,500,0.47,Debit Card,Pending,Vadodara,Bihar,293761,N
+ORD-10025,Indrajit Hora,lbhardwaj@example.com,+913739725689,1990-07-21,f,11-08-2023,Deploy Interactive Content,clothing,1664.61,9,0.21,Net Banking,,Mathura,Nagaland,550091,No
+ORD-10026,Krish Bedi,,06317137019,1996-06-04,female,09 Sep 2023,Enhance Open-Source Info-Mediaries,Sports,3290.79,8,0.26,CREDIT CARD,,Gopalpur,Jharkhand,879685,Y
+ORD-10027,Varenya Edwin,yaminiiyengar@example.org,6773142488,1994-08-21,m,2023-11-18,Architect Innovative E-Markets,Sports,170.91,8,0.38,Cash on Delivery,Returned,Srikakulam,Jharkhand,702362,Y
+ORD-10028,Aryan Subramaniam,xkanda@example.com,4587299926,1972-07-18,Male,03 Feb 2023,Evolve Bleeding-Edge Networks,Sports,4433.05,4,0.48,COD,Returned,Morbi,Arunachal Pradesh,716824,No
+ORD-10029,Kamya Pall,gshanker@example.com,02223703135,1989-08-16,f,06 Sep 2022,Drive User-Centric Models,Books,3788.49,9,0.45,Cash on Delivery,Shipped,Madurai,Meghalaya,628533,no
+ORD-10030,Gabriel Jani,banikisaac@example.com,08419604544,1993-10-27,,07-10-2024,Exploit B2B Schemas,home & kitchen,1234.27,5,0.17,COD,Delivered,Suryapet,Tamil Nadu,673037,No
+ORD-10031,Dev Dhar,thomas37@example.org,5593992531,1998-09-06,f,24/02/2024,Expedite Granular E-Commerce,,1073.83,10,,,,Bardhaman,Jharkhand,966723,yes
+ORD-10032,Theodore Varty,ekani12@example.net,04417214840,1964-04-24,other,04 Sep 2023,Streamline Sticky E-Business,BOOKS,3036.1,4,0.24,Net Banking,Pending,Ramagundam,Meghalaya,159240,
+ORD-10033,Jackson Khatri,balhaar33@example.org,08584064000,1976-07-28,f,08/04/2024,Embrace E-Business Platforms,Electronics,2979.87,2,0.07,Cash on Delivery,Shipped,Sultan Pur Majra,Gujarat,852997,no
+ORD-10034,Arya Pandya,yogiamrita@example.net,+912040669398,1989-04-06,MALE,02/11/2023,Architect User-Centric Mindshare,Sports,2136.75,8,,COD,Delivered,Mango,Telangana,729894,yes
+ORD-10035,Nilima Banik,oscarchaudhary@example.com,05659200284,1972-08-22,m,2023-04-05,Expedite Cross-Media E-Business,Clothing,3125.61,8,0.28,Debit Card,Returned,Siwan,Andhra Pradesh,905005,
+ORD-10036,Qarin Khalsa,yashvi99@example.com,+916648752273,1975-06-06,,26/01/2024,Orchestrate 24/7 Channels,Sports & Outdoors,1589.64,5,0.45,Net Banking,Returned,Howrah,Uttar Pradesh,459348,No
+ORD-10037,Ojas Khanna,venkataramanyagnesh@example.com,9934197875,2000-03-09,FEMALE,05/06/2022,Cultivate Frictionless Metrics,Sports,4920.03,6,0.33,credit card,Cancelled,Imphal,Madhya Pradesh,157148,Yes
+ORD-10038,Ishanvi Mann,chandranhemani@example.org,07960322009,1982-02-06,F,10 May 2024,Productize Open-Source Mindshare,BOOKS,921.88,5,0.46,Cash on Delivery,Returned,Karawal Nagar,Mizoram,809141,N
+ORD-10039,Benjamin Rajan,dayamai58@example.org,09471321969,1965-08-11,F,07-04-2023,Empower Leading-Edge Relationships,Clothing,2870.76,6,,upi,Shipped,Dhule,Assam,610520,yes
+ORD-10040,Shravya Venkataraman,phayer@example.net,+915790595367,1962-04-09,f,06-14-2023,Disintermediate User-Centric Technologies,Electronics,995.73,7,0.38,Cash on Delivery,,Ludhiana,Tripura,199396,no
+ORD-10041,Triya Karan,vrindasidhu@example.net,08221193364,1990-08-02,Other,2022-02-05,Mesh Best-Of-Breed Markets,Books,2789.69,9,0.35,UPI,Pending,Farrukhabad,Tripura,641647,Yes
+ORD-10042,Krishna Dua,oeshikalita@example.com,2456480779,1968-03-07,M,01-30-2023,Grow Sticky Mindshare,Clothing,2446.78,9,0.49,Debit Card,Pending,Nanded,Gujarat,480477,No
+ORD-10043,Chavvi Sarkar,varghesedamyanti@example.com,,2004-02-03,Male,2023-09-12,Whiteboard Seamless Relationships,home & kitchen,4723.24,8,0.01,UPI,Returned,New Delhi,Nagaland,240518,yes
+ORD-10044,Radhika Nagar,ogera@example.net,05543831939,1975-02-02,male,2023-01-13,Orchestrate Front-End Synergies,Home & Kitchen,2906.25,3,0.28,UPI,Delivered,Bhiwandi,Madhya Pradesh,584938,Yes
+ORD-10045,Baljiwan Talwar,pchada@example.net,+914418675723,1967-04-15,MALE,02/05/2024,Enable Real-Time Metrics,Sports & Outdoors,2172.71,1,0.37,Debit Card,,Tirupati,Chhattisgarh,364163,N
+ORD-10046,Baljiwan Brar,zinaldua@example.com,+915298427387,1975-09-20,female,16/06/2022,Innovate 24/7 Experiences,Home and Kitchen,2376.07,5,0.35,Cash on Delivery,Delivered,Rohtak,Sikkim,800202,yes
+ORD-10047,Jyoti Chandran,damyanti97@example.org,8539839495,1977-08-16,MALE,10 Feb 2023,Extend Open-Source E-Markets,,345.21,10,,,,Bhusawal,Goa,299839,N
+ORD-10048,Triya Gulati,sunderadvaith@example.org,+919237292171,1981-10-06,male,15 Sep 2023,Unleash End-To-End Initiatives,Books,2188.54,5,,Debit Card,,Sagar,Himachal Pradesh,541029,Y
+ORD-10049,Reyansh Handa,eesha36@example.com,1309425499,1990-07-26,f,02-12-2022,Deliver 24/365 Interfaces,books,1426.88,7,0.25,credit card,Returned,Motihari,Kerala,374914,yes
+ORD-10050,Upma Virk,nathantella@example.net,03648350016,1973-03-11,MALE,2023-10-20,Expedite Vertical Methodologies,books,4077.15,8,,UPI,Pending,Ajmer,Andhra Pradesh,103958,
+ORD-10051,Faras Chokshi,ekarpe@example.com,04328559766,2008-03-10,m,2024-04-07,Drive Web-Enabled Experiences,home & kitchen,3794.39,1,0.27,UPI,Returned,Mirzapur,Kerala,842727,no
+ORD-10052,Jeet Keer,balaelijah@example.net,4208279183,2007-05-29,M,2022-09-06,Productize Distributed Functionalities,clothing,2783.64,2,0.06,CREDIT CARD,Returned,Adoni,Andhra Pradesh,150821,yes
+ORD-10053,Brinda Malhotra,suhani14@example.com,+917469733780,1988-01-03,F,11-08-2024,Revolutionize Wireless Methodologies,home & kitchen,993.52,3,0.14,Net Banking,Pending,Rajkot,Kerala,750315,Y
+ORD-10054,Aradhana Bera,karividhi@example.org,7531341952,1995-07-20,Other,2023-07-02,Enable Best-Of-Breed Info-Mediaries,Home and Kitchen,2260.41,6,0.27,Cash on Delivery,Pending,Nagpur,Sikkim,879172,N
+ORD-10055,Rajata Gupta,imaran84@example.org,,1982-07-01,other,05 May 2023,Harness Cross-Media Content,Home and Kitchen,4066.47,3,0.02,COD,Cancelled,Ramagundam,Mizoram,272518,Yes
+ORD-10056,Shivani Kohli,saniharinakshi@example.com,3170397280,1984-07-18,female,2024-06-20,Harness Impactful Paradigms,Sports & Outdoors,814.09,5,0.35,credit card,Pending,Hazaribagh,Manipur,711112,
+ORD-10057,Tarak Sinha,qasimsur@example.org,4654636594,2000-01-24,F,28 Dec 2024,Orchestrate Mission-Critical Markets,Sports & Outdoors,3106.42,5,0.37,Net Banking,Delivered,Vijayawada,Manipur,161527,N
+ORD-10058,Kevin Kibe,joshijyoti@example.net,,1994-07-09,Female,25 Jul 2022,Deliver Best-Of-Breed Users,Sports,1824.39,4,0.28,CREDIT CARD,Shipped,Salem,Sikkim,210424,Y
+ORD-10059,Mugdha Basu,warhi59@example.net,06855728492,2005-08-17,Other,23/02/2024,Mesh B2C Relationships,clothing,3350.86,8,0.34,CREDIT CARD,Delivered,Gandhinagar,Sikkim,400319,yes
+ORD-10060,Jai Toor,tanishseth@example.net,7131145303,2005-09-21,female,05 Sep 2023,Engineer Holistic Niches,Sports & Outdoors,1224.17,10,0.35,Credit Card,,Jodhpur,West Bengal,423999,Yes
+ORD-10061,Pahal Mane,zgoswami@example.net,+915291950417,1998-02-16,m,11 Apr 2022,Implement Back-End Networks,Books,1134.07,5,0.36,CREDIT CARD,,Shimla,Haryana,482602,N
+ORD-10062,Irya Kakar,,06783711449,1965-06-15,M,03-22-2022,Aggregate End-To-End Infrastructures,electronics,1667.26,4,0.27,upi,Cancelled,Dhanbad,Maharashtra,899764,yes
+ORD-10063,Gauri Sidhu,warhi35@example.org,02399544350,1994-03-06,MALE,12-03-2022,Implement Rich Interfaces,BOOKS,4030.95,2,0.48,Net Banking,Cancelled,Karaikudi,Bihar,214800,
+ORD-10064,Wridesh Hans,yauvanidyal@example.org,+916243118498,1966-01-31,other,2024-03-19,Monetize B2C E-Services,books,1936.08,6,0.12,Credit Card,Cancelled,Lucknow,Nagaland,935682,Y
+ORD-10065,Anamika Bahri,meghana50@example.net,01503529949,1997-11-28,other,03/11/2023,Target Magnetic Portals,clothing,627.55,1,,credit card,,Mehsana,Tamil Nadu,022292,No
+ORD-10066,Ekanta Thakkar,aashishah@example.net,5933001587,1997-09-05,f,06 Mar 2024,Monetize Value-Added Technologies,,3646.67,2,,,,Bhavnagar,Maharashtra,057038,No
+ORD-10067,Charvi Tak,pushti27@example.org,07231386587,2004-12-04,Other,27 Jun 2024,Re-Contextualize Out-Of-The-Box E-Markets,,4890.32,7,,,,Amaravati,Karnataka,886469,N
+ORD-10068,Chaitanya Hari,vkohli@example.org,05943269434,1969-06-02,FEMALE,2022-02-13,Unleash Virtual Partnerships,Clothing,3837.53,4,0.12,CREDIT CARD,Cancelled,,Arunachal Pradesh,570054,
+ORD-10069,Ganga Mutti,dbhatnagar@example.net,02352353764,1990-07-30,Male,24/10/2022,Drive Ubiquitous Convergence,ELECTRONICS,3960.42,6,,UPI,Delivered,Srikakulam,Kerala,924208,no
+ORD-10070,Azad Sandal,kantzaid@example.com,07966641900,1992-07-03,f,2024-12-13,Benchmark Revolutionary Solutions,Books,2544.0,1,0.45,COD,Pending,Satna,Nagaland,773067,Yes
+ORD-10071,Upkaar Aurora,vkrishnamurthy@example.net,01779717687,1997-12-07,other,05 May 2022,Deliver Best-Of-Breed Applications,Home and Kitchen,449.91,2,0.31,cod,Cancelled,Kakinada,Goa,561522,no
+ORD-10072,Amrita Konda,aryan30@example.net,+915729289816,1993-05-03,other,12-22-2024,Reinvent Proactive E-Commerce,electronics,3272.04,4,0.44,Net Banking,Pending,Rourkela,Kerala,978676,no
+ORD-10073,Chatura Swaminathan,saumya65@example.com,2205609030,2007-06-20,M,2024-05-01,Synergize Cross-Media E-Markets,books,382.31,2,0.37,upi,Shipped,Guntur,Tripura,469278,Y
+ORD-10074,Siya Chandran,mayakibe@example.com,05454071266,2008-04-08,female,2023-11-07,Transform Killer Initiatives,Sports & Outdoors,304.66,5,0.29,Debit Card,Shipped,Bidhannagar,Chhattisgarh,435694,No
+ORD-10075,Ekapad Sampath,dev33@example.com,8312487400,1972-09-28,FEMALE,08-10-2022,Disintermediate Best-Of-Breed Channels,Clothing,4233.52,10,0.32,Credit Card,Cancelled,Rajkot,Andhra Pradesh,853757,
+ORD-10076,Wridesh Ratti,ipandey@example.com,0170506126,1992-05-04,Female,2023-07-02,Grow Plug-And-Play E-Services,Clothng,-99.0,7,,Credit Card,Delivered,Chennai,Mizoram,045790,No
+ORD-10077,Dominic Khosla,lucky18@example.net,+916704929064,1960-06-02,Female,10 Feb 2024,Revolutionize Holistic Interfaces,Sports,3001.31,3,0.31,credit card,Pending,Bhiwandi,Maharashtra,056102,no
+ORD-10078,Anita Gokhale,jacob24@example.org,07678393529,2005-04-10,Female,21 Sep 2024,E-Enable Holistic Roi,Home & Kitchen,3407.18,9,0.02,Net Banking,Cancelled,Aurangabad,Jharkhand,620235,No
+ORD-10079,Chanchal Goel,amaraedwin@example.net,+912296753772,2005-10-24,male,10/09/2023,Leverage Bleeding-Edge Platforms,Electronics,2181.74,9,0.25,upi,Delivered,Junagadh,West Bengal,121423,N
+ORD-10080,,srinivasankamya@example.net,9891687964,2003-09-04,FEMALE,28 Mar 2022,Visualize Holistic Vortals,Home & Kitchen,3562.02,2,0.48,CREDIT CARD,Cancelled,Meerut,Manipur,416538,N
+ORD-10081,Geetika Nigam,lekhavarma@example.com,+912877036475,1999-08-13,female,2024-01-12,Aggregate Out-Of-The-Box Models,home & kitchen,4359.1,4,0.08,COD,,Proddatur,West Bengal,520376,Y
+ORD-10082,Thomas Devan,kaurshivani@example.com,7797679720,2001-06-15,M,02-02-2023,Maximize B2B Partnerships,Clothing,1317.04,3,0.33,CREDIT CARD,,Vijayanagaram,Tripura,612390,
+ORD-10083,Chavvi Sheth,urvi67@example.net,06121434692,1971-04-12,male,07-08-2024,Harness Ubiquitous Web Services,Home and Kitchen,1548.96,1,0.04,Cash on Delivery,Returned,,Bihar,836379,yes
+ORD-10084,Maanav Oza,zkarpe@example.net,+912850498391,1970-02-26,FEMALE,2023-08-11,Envisioneer B2B Initiatives,home & kitchen,2922.63,1,0.4,Debit Card,Pending,Surendranagar Dudhrej,Andhra Pradesh,142485,Y
+ORD-10085,Tripti Goyal,adviknarula@example.org,2377471722,1967-07-01,other,2022-11-05,Re-Intermediate Dynamic Relationships,electronics,904.17,8,0.26,cod,Shipped,Bharatpur,Goa,216760,yes
+ORD-10086,Yatan Gaba,otailor@example.net,,1980-04-28,Other,04 Mar 2024,Architect Turn-Key Architectures,books,1681.97,7,0.36,cod,Shipped,Kanpur,Himachal Pradesh,347423,Y
+ORD-10087,Nitesh Kaul,semjeevika@example.net,6358330660,1970-04-20,M,10-17-2022,Empower Proactive Channels,Books,469.36,6,0.34,COD,Delivered,Mango,Odisha,106681,no
+ORD-10088,,pavani61@example.net,06951958708,1991-02-10,Female,11-07-2024,Expedite Transparent Interfaces,Sports,1171.39,2,0.39,COD,Cancelled,Jalandhar,Sikkim,093424,Y
+ORD-10089,Samesh Sundaram,anayak@example.net,3522427337,1996-03-30,M,03-19-2022,Productize Sticky Infrastructures,ELECTRONICS,3479.59,3,0.02,upi,,Patna,Manipur,344921,no
+ORD-10090,Jonathan Dara,isaacchacko@example.net,08630425189,1979-09-11,,07 Aug 2023,Disintermediate Holistic Interfaces,,1010.38,10,,,,Patna,Odisha,264254,no
+ORD-10091,Omaja Savant,bhattiamruta@example.org,3138864763,1980-08-19,Other,28/11/2022,Visualize Strategic Web Services,Home and Kitchen,2794.98,9,0.14,CREDIT CARD,Pending,Mysore,Tamil Nadu,737724,Y
+ORD-10092,Nitesh Dhaliwal,contractoryamini@example.com,04782742172,1986-09-01,Female,29 Oct 2022,Generate Rich Interfaces,Electronics,2012.45,7,0.19,Credit Card,Pending,Tenali,Bihar,845272,
+ORD-10093,Daksha Patel,kchander@example.net,02271040697,1983-08-12,other,18/11/2023,Transform World-Class Web Services,Sports & Outdoors,3542.4,1,0.01,Debit Card,Shipped,Unnao,West Bengal,734134,N
+ORD-10094,Riya Balasubramanian,xaviermurty@example.com,08270321894,2003-03-02,Male,16 Dec 2024,Disintermediate Bleeding-Edge Vortals,Clothing,3979.8,2,0.25,COD,Delivered,Sangli-Miraj & Kupwad,Tripura,649772,Y
+ORD-10095,Niharika Sodhi,,+919176543796,1974-06-06,FEMALE,11/05/2023,Visualize Virtual Relationships,Home & Kitchen,3357.66,6,,COD,Cancelled,Loni,Odisha,481339,Y
+ORD-10096,Triveni Kulkarni,,+913115130806,2000-03-30,Female,11 Feb 2022,Transition Integrated Markets,clothing,1817.61,4,0.31,cod,,Meerut,Manipur,801343,No
+ORD-10097,Ekavir Solanki,panchalpanini@example.org,3446746648,1993-12-12,,04-01-2022,Synergize Dynamic Supply-Chains,books,3492.18,3,,Cash on Delivery,Delivered,Bihar Sharif,Mizoram,287422,Yes
+ORD-10098,Aarnav Hari,darshkrishnamurthy@example.org,+917944767432,2002-01-14,f,2023-02-13,Innovate Scalable Interfaces,Home and Kitchen,3778.79,6,0.02,upi,Pending,Coimbatore,Maharashtra,350315,yes
+ORD-10099,Oliver Chada,chawlalila@example.com,07939565776,1979-07-18,M,13 Jun 2024,Implement B2B Metrics,Home and Kitchen,1868.37,5,0.36,credit card,Returned,Burhanpur,Punjab,661846,
+ORD-10100,Chakradev Pandit,charpranav@example.net,+913192894028,1990-12-16,MALE,01-05-2023,Aggregate End-To-End Experiences,Home and Kitchen,2159.27,6,0.36,upi,Cancelled,Chandigarh,Gujarat,346099,yes
+ORD-10101,Aradhana Narula,baradparth@example.com,06959522346,1981-04-14,other,2022-04-28,Redefine Synergistic Users,books,204.15,8,,credit card,Shipped,Salem,Himachal Pradesh,333485,yes
+ORD-10102,Azad Bhasin,,8484083284,1995-10-10,F,12 Jan 2024,Extend One-To-One Info-Mediaries,Clothng,3827.27,9,,UPI,Shipped,Karaikudi,Punjab,275340,Yes
+ORD-10103,Indali Mital,evirk@example.org,00767822487,1984-06-07,,17 Jan 2023,Productize One-To-One Vortals,clothing,1112.12,8,0.07,credit card,Returned,Gaya,Sikkim,773580,N
+ORD-10104,Frado Viswanathan,qbumb@example.com,09099169621,2004-04-16,Other,2024-06-30,Extend B2B Technologies,Clothng,2772.49,5,0.36,CREDIT CARD,Pending,Pimpri-Chinchwad,Meghalaya,667442,Yes
+ORD-10105,Simon Sachdev,yochana31@example.com,4211361505,1986-05-17,FEMALE,16/02/2023,Transition Frictionless Metrics,Clothng,4915.91,2,,Net Banking,,Ambala,Uttarakhand,409961,Y
+ORD-10106,Vasudha Bhandari,chanakyadutta@example.org,+916314563467,2000-05-02,Other,21 Apr 2024,Whiteboard Open-Source Deliverables,electronics,3416.54,9,0.09,CREDIT CARD,Returned,Gopalpur,Assam,625584,
+ORD-10107,Waida Tripathi,kakarnaveen@example.org,03243771264,2001-09-03,other,2022-04-24,Drive Customized Communities,Clothing,4707.48,2,0.32,COD,Pending,Arrah,Uttar Pradesh,061081,yes
+ORD-10108,Jasmit Chad,katalogan@example.org,06076653567,1975-04-18,M,2024-12-28,Matrix Sticky Partnerships,ELECTRONICS,3617.13,10,,Credit Card,Delivered,Noida,Chhattisgarh,985467,N
+ORD-10109,Girik Shenoy,masterleena@example.com,2581035348,1976-06-08,F,27/06/2023,Envisioneer Holistic Roi,books,3227.44,4,0.34,UPI,Returned,Uluberia,Assam,393645,Yes
+ORD-10110,Isaac Dani,maya86@example.org,+912234438757,2000-03-22,M,20 Nov 2022,Transform Value-Added Interfaces,Clothng,1630.62,6,0.07,upi,Cancelled,Visakhapatnam,Sikkim,426093,yes
+ORD-10111,Diya Chakrabarti,wishi24@example.net,04661668814,1975-10-01,Male,11 May 2023,Brand End-To-End E-Tailers,clothing,4327.61,3,0.47,upi,Shipped,Tirupati,West Bengal,035783,no
+ORD-10112,Wridesh Deol,charleskala@example.org,,1974-04-18,female,20 Nov 2024,Iterate Rich Roi,home & kitchen,1241.61,1,,Cash on Delivery,Cancelled,Pune,Nagaland,309897,N
+ORD-10113,Tejas Jha,hsoni@example.org,09995384336,1961-01-01,MALE,08-21-2024,Empower Value-Added E-Commerce,BOOKS,2046.11,1,0.1,COD,Pending,Tenali,Tamil Nadu,364308,Y
+ORD-10114,Dayita Varughese,okumer@example.net,05330290556,1971-09-25,M,07-11-2024,Generate B2B Vortals,electronics,3984.74,6,0.1,COD,Returned,Yamunanagar,Tripura,243528,Yes
+ORD-10115,Vamakshi Ravel,laban11@example.org,8781127848,2006-02-11,M,21/03/2022,Matrix Customized E-Markets,Books,741.92,6,0.5,UPI,Cancelled,Kakinada,Jharkhand,368273,
+ORD-10116,Abha Chaudry,luckykala@example.net,+919469623694,2005-10-05,Female,09 Nov 2024,Innovate Efficient Synergies,Clothng,4900.5,1,0.13,cod,Cancelled,Hazaribagh,Haryana,927570,Yes
+ORD-10117,Bhavika Das,varshajain@example.net,8565876747,1969-03-14,female,10/09/2024,Generate Integrated E-Markets,ELECTRONICS,1248.87,2,0.22,Net Banking,Shipped,Ahmedabad,Punjab,489959,No
+ORD-10118,Robert Wason,sachisarraf@example.com,,2005-10-03,M,20 Apr 2024,Expedite Synergistic Info-Mediaries,home & kitchen,1659.0,9,0.48,Cash on Delivery,Cancelled,Mango,Kerala,008481,yes
+ORD-10119,Vedant Dubey,chegde@example.net,09053298561,2006-11-24,m,26 Jun 2023,Target Rich Platforms,,3539.26,8,,,,Bongaigaon,Manipur,879703,N
+ORD-10120,Divya Srinivasan,ronith76@example.com,05869936599,1983-01-14,MALE,17 Feb 2024,Engage Frictionless Networks,Electronics,3585.0,8,0.37,Debit Card,Shipped,Imphal,Madhya Pradesh,056280,yes
+ORD-10121,Jagat Dewan,yochana32@example.org,+914729496092,1974-12-05,Male,11/07/2023,Deliver B2C E-Commerce,books,1167.07,2,0.36,credit card,,Tadepalligudem,West Bengal,679619,Yes
+ORD-10122,Farhan Dora,ayush40@example.net,02770462563,1963-09-17,Other,20 Nov 2022,Synergize Integrated Technologies,Clothing,1471.86,1,0.04,cod,Shipped,Eluru,Kerala,030856,N
+ORD-10123,Andrew Dutta,vlal@example.net,02671116378,2005-01-26,Male,18/03/2022,Optimize Sticky Relationships,Sports & Outdoors,2502.15,5,0.0,cod,Cancelled,Bidhannagar,Karnataka,124077,yes
+ORD-10124,Hemani Sachdev,oshashah@example.org,01988468958,1969-01-01,M,06 Aug 2023,Innovate Intuitive Mindshare,Sports & Outdoors,1400.54,6,0.23,UPI,,Unnao,Gujarat,341283,N
+ORD-10125,Yoshita Pal,gaurika38@example.org,00707820213,1993-03-21,Other,11-22-2023,Facilitate Dot-Com Web-Readiness,Home & Kitchen,2600.64,2,0.07,upi,Shipped,,Meghalaya,759277,no
+ORD-10126,Samaksh Kata,tanvikata@example.org,1719962105,1961-10-07,other,28 Apr 2023,Expedite Value-Added Deliverables,Books,3285.73,1,0.23,CREDIT CARD,Returned,Srikakulam,Chhattisgarh,494821,N
+ORD-10127,Onkar Sawhney,amol09@example.org,0115635915,1975-05-17,m,2023-09-29,Morph Intuitive Content,Clothing,2417.0,10,0.35,Cash on Delivery,Cancelled,Bally,Maharashtra,188165,
+ORD-10128,David Pillay,shukladavid@example.com,3495873562,1990-05-28,f,24/03/2023,Integrate Clicks-And-Mortar Functionalities,Home and Kitchen,1840.84,2,,COD,Cancelled,Gangtok,Jharkhand,408582,Y
+ORD-10129,Orinder Manda,bandiwazir@example.com,05908728598,1978-05-11,m,03/11/2022,Transition Front-End E-Business,BOOKS,500.16,1,0.26,Cash on Delivery,Cancelled,Mangalore,Punjab,762549,no
+ORD-10130,Hritik Brahmbhatt,harshilsharma@example.net,09731946006,1997-10-21,FEMALE,2023-09-24,Syndicate Clicks-And-Mortar Applications,electronics,1755.42,1,0.03,Cash on Delivery,Delivered,Saharsa,Tamil Nadu,986261,No
+ORD-10131,Thomas Shan,balaanusha@example.com,+918571121412,1987-07-12,female,05 Oct 2022,Drive Strategic Mindshare,Home & Kitchen,4822.51,3,0.17,CREDIT CARD,Cancelled,Orai,Uttarakhand,603051,No
+ORD-10132,Sudiksha Ramakrishnan,zayyansanghvi@example.org,2052168281,1985-02-16,other,2023-04-02,Synthesize Open-Source Technologies,home & kitchen,1927.42,8,0.14,credit card,Delivered,Bhilai,West Bengal,988909,no
+ORD-10133,Wazir Pandey,nagykaran@example.net,,2000-04-13,FEMALE,02/02/2022,Enhance Transparent Niches,books,290.95,7,0.27,Credit Card,Shipped,Bhubaneswar,Madhya Pradesh,973272,yes
+ORD-10134,Nicholas Balasubramanian,widisha78@example.com,07163314596,1983-09-05,m,04-25-2023,Grow End-To-End Communities,clothing,4929.19,7,0.03,cod,,Aligarh,Jharkhand,507862,N
+ORD-10135,Chasmum Rao,nisha07@example.org,+916447343664,1968-04-10,female,24 May 2024,Morph Front-End Schemas,Sports,3496.73,5,0.38,Cash on Delivery,Shipped,Agartala,Karnataka,004529,yes
+ORD-10136,Gaurang De,girish09@example.net,06796218592,1996-11-08,f,23 Oct 2022,Revolutionize Cross-Media Relationships,home & kitchen,1252.15,2,0.42,credit card,Cancelled,Hyderabad,West Bengal,660069,No
+ORD-10137,Gauri Oommen,jgopal@example.com,,1978-02-14,male,04-16-2022,Embrace Value-Added E-Business,Clothing,2958.54,4,0.43,upi,Pending,Bellary,Telangana,403114,Yes
+ORD-10138,Eta Mani,kantosha@example.com,+919618074001,1990-10-16,F,10/03/2023,Aggregate Frictionless E-Markets,Clothing,3533.65,4,0.39,Net Banking,Returned,Nashik,Arunachal Pradesh,150707,yes
+ORD-10139,Vidhi D’Alia,logansankar@example.org,+916674274566,1971-05-19,,09-24-2023,Scale Dynamic Functionalities,BOOKS,4206.67,6,0.02,Debit Card,,Korba,Jharkhand,924347,yes
+ORD-10140,Ira Narain,obasu@example.org,8433081029,1996-06-19,m,05-05-2024,Streamline Cross-Platform Content,Home and Kitchen,4720.15,8,0.32,Cash on Delivery,Returned,Berhampur,Sikkim,639921,
+ORD-10141,Jeet Chawla,rlalla@example.org,02719415058,1985-06-25,f,23/12/2023,Reinvent Dot-Com Schemas,books,2643.52,2,0.33,Credit Card,Returned,Bongaigaon,Chhattisgarh,367698,N
+ORD-10142,Ucchal Oza,,2994823321,1976-03-08,Female,2023-04-19,Innovate Revolutionary Technologies,Electronics,3350.44,8,,,,Vadodara,Jharkhand,299483,Yes
+ORD-10143,Charvi Luthra,onveerkala@example.com,9238062125,1994-08-27,other,12-20-2024,Productize Rich Metrics,books,4701.57,2,0.12,cod,Cancelled,Rampur,Jharkhand,917038,yes
+ORD-10144,Janya Kapur,dayitababu@example.net,05907367952,1989-03-24,m,02 Jul 2023,Re-Contextualize Real-Time Initiatives,BOOKS,3436.01,1,,Net Banking,Returned,Thane,Uttar Pradesh,970804,Yes
+ORD-10145,Wishi Sachar,sarmatamanna@example.com,08645450306,1962-11-19,Female,20/01/2022,Synthesize Cross-Media Applications,Books,4870.51,1,0.45,cod,Returned,Kamarhati,Telangana,224675,Yes
+ORD-10146,Ekavir Menon,ombalveer@example.org,,1978-06-06,m,2023-07-29,Generate Bricks-And-Clicks Communities,Books,4112.42,2,,,,Bhilwara,Chhattisgarh,771092,Y
+ORD-10147,Abhimanyu Gola,harish72@example.net,+918602764301,1976-07-11,other,11 Nov 2023,Incubate Next-Generation Mindshare,electronics,4872.9,7,0.04,cod,Cancelled,Srinagar,Chhattisgarh,369227,no
+ORD-10148,Zilmil Ganesh,warriornathaniel@example.org,2496078742,2004-09-05,m,2023-10-31,Revolutionize Cutting-Edge Partnerships,Clothng,1908.36,10,0.04,cod,Pending,Anantapuram,Sikkim,336968,N
+ORD-10149,Neha Keer,pgrover@example.net,+918278931114,1985-01-15,M,2022-05-31,Leverage Holistic Functionalities,BOOKS,1835.47,5,0.38,credit card,Shipped,Sri Ganganagar,Jharkhand,653306,no
+ORD-10150,Janaki Bhatt,xthaker@example.com,02827482789,1995-12-17,FEMALE,08 Jul 2024,Leverage Rich Markets,Books,4325.4,7,0.04,COD,Shipped,Akola,Haryana,856000,No
+ORD-10151,Geetika Mukhopadhyay,mmadan@example.com,+917280293845,1973-06-28,male,19/02/2024,Architect E-Business Functionalities,ELECTRONICS,2134.46,2,0.47,Cash on Delivery,Cancelled,Shimoga,Goa,045059,no
+ORD-10152,Eta Batta,bsant@example.net,04895705340,1994-03-07,FEMALE,08/08/2022,Envisioneer Turn-Key Interfaces,Home & Kitchen,1681.23,10,0.16,Debit Card,Returned,Anantapuram,Goa,372971,no
+ORD-10153,Yachana Khosla,tanishnarula@example.org,7658731790,1980-09-22,,10-16-2023,Implement Back-End Solutions,Clothing,1437.49,6,0.28,cod,Cancelled,Ulhasnagar,Punjab,712361,
+ORD-10154,Zinal Choudhary,sneha02@example.net,00223446845,1997-02-11,other,25 Feb 2022,Aggregate Bricks-And-Clicks Networks,electronics,3988.5,8,0.15,UPI,,Navi Mumbai,Bihar,107580,no
+ORD-10155,Vritti Bhatnagar,duagunbir@example.com,03977627339,1970-04-28,f,2024-02-12,Implement Collaborative Partnerships,home & kitchen,4354.69,1,0.18,COD,Cancelled,Guntakal,Karnataka,058488,Yes
+ORD-10156,Varsha Kala,omya43@example.net,09263633329,1971-02-09,Male,12/08/2022,Exploit Proactive E-Services,Books,3403.49,6,0.22,Credit Card,Delivered,Katihar,Karnataka,558421,Y
+ORD-10157,Naksh Iyer,eshanadhillon@example.org,4697073296,2006-05-23,FEMALE,28/11/2024,Drive Best-Of-Breed Metrics,BOOKS,1757.59,2,0.46,credit card,Delivered,Mirzapur,Goa,448804,N
+ORD-10158,Neha Bhagat,chokshicharvi@example.com,+919181642585,1982-11-04,F,10-18-2022,Redefine Next-Generation Infrastructures,Clothng,2218.92,6,,Credit Card,,Guna,Karnataka,152508,
+ORD-10159,Zashil Patla,amolagrawal@example.org,07970803788,1981-03-23,m,2023-12-04,Implement Out-Of-The-Box Applications,home & kitchen,842.67,8,0.2,CREDIT CARD,Shipped,Avadi,Jharkhand,515947,no
+ORD-10160,Rachana Palla,gbakshi@example.net,+914907705977,1988-10-17,female,2024-03-21,Re-Intermediate Turn-Key Bandwidth,Home & Kitchen,-99.0,2,0.4,COD,Shipped,Surat,Sikkim,894867,No
+ORD-10161,Ishanvi Ravel,varenyachander@example.org,00547823183,2002-01-13,Other,2024-07-26,Streamline Magnetic Solutions,Clothng,3075.98,6,0.23,CREDIT CARD,,Ghaziabad,Assam,777078,yes
+ORD-10162,Chatresh Majumdar,vedantagarwal@example.org,01557448119,1965-09-06,Female,23/06/2022,Transition Ubiquitous E-Services,BOOKS,1972.89,10,0.09,COD,,Nanded,Bihar,012430,No
+ORD-10163,Yachana Acharya,kbatta@example.com,+910744486216,1993-08-21,FEMALE,08 Dec 2022,Monetize Dynamic Interfaces,Electronics,4761.62,4,0.48,COD,,Agra,Arunachal Pradesh,236983,N
+ORD-10164,Finn Merchant,bhargavamax@example.com,2287694960,1990-06-16,FEMALE,04 Oct 2024,Morph B2C E-Markets,Electronics,1141.62,4,0.08,Cash on Delivery,Cancelled,Satara,Goa,272186,
+ORD-10165,Zarna Mammen,manbirchoudhary@example.org,+911849317658,1999-05-08,Female,2024-10-11,Optimize Impactful Content,home & kitchen,255.97,9,0.21,Debit Card,Pending,Sri Ganganagar,Goa,119296,Yes
+ORD-10166,Pratyush Mandal,useth@example.org,+916977350104,1972-05-09,male,07-10-2024,Synergize World-Class Bandwidth,Sports,1088.9,6,0.31,Net Banking,Shipped,Jorhat,Arunachal Pradesh,504804,
+ORD-10167,Xiti Mandal,vnagarajan@example.com,2835323793,1981-04-12,FEMALE,28/02/2023,Exploit Impactful Communities,home & kitchen,4896.05,10,0.43,credit card,Shipped,Akola,West Bengal,293256,
+ORD-10168,Rachit Kala,jacobmangal@example.com,08657839455,1989-11-27,M,2024-04-22,Monetize Seamless Markets,,1644.38,7,,,,Narasaraopet,Mizoram,493246,no
+ORD-10169,Bhavini Natt,yashvi74@example.org,1644384919,1982-06-09,Female,2022-06-04,Synergize Extensible Action-Items,Home and Kitchen,1670.08,500,,Cash on Delivery,,Sasaram,Himachal Pradesh,769774,yes
+ORD-10170,Odika Zachariah,venkateshharrison@example.net,+914633928155,1967-02-25,MALE,10 May 2022,E-Enable Dot-Com Schemas,Clothng,1721.89,10,0.39,Credit Card,Delivered,Howrah,Odisha,704423,
+ORD-10171,Januja Lanka,ladsneha@example.net,7667048651,1999-07-29,Male,2024-07-30,Expedite Plug-And-Play Web Services,Home & Kitchen,3458.53,5,0.47,UPI,Delivered,Kishanganj,Tamil Nadu,332039,yes
+ORD-10172,Ekbal Soman,odikabassi@example.com,,1988-11-18,Other,06-18-2022,Strategize B2C Convergence,clothing,3788.4,2,0.0,Cash on Delivery,Delivered,Rajahmundry,Goa,470797,No
+ORD-10173,,hardikrajagopal@example.com,2755632836,1974-04-12,female,29 Nov 2024,Target Global Convergence,BOOKS,400.6,2,,UPI,Shipped,Mira-Bhayandar,Bihar,966323,
+ORD-10174,Rudra Reddy,william35@example.com,04243620824,2005-06-05,M,30/09/2022,Disintermediate Customized Action-Items,Home and Kitchen,1104.62,7,0.22,Debit Card,Delivered,Haridwar,Uttarakhand,996407,No
+ORD-10175,Hamsini Sharma,sonifrado@example.com,2726231750,1966-03-22,m,10 Sep 2022,Cultivate Leading-Edge Experiences,clothing,1278.43,10,0.47,Credit Card,,Navi Mumbai,Maharashtra,923353,No
+ORD-10176,Kamya Arora,gaurika32@example.net,,1963-07-13,,26/11/2024,Synergize Wireless Channels,Clothing,608.08,10,,Credit Card,Pending,Panchkula,Tripura,317662,No
+ORD-10177,Damyanti Chada,udyati46@example.net,02972850792,2005-12-21,,03 Mar 2024,Revolutionize Proactive Relationships,electronics,384.29,1,0.47,Net Banking,Cancelled,Tumkur,Sikkim,632887,N
+ORD-10178,Dhriti Vora,zkarpe@example.org,+918727521447,1996-06-26,f,23 Oct 2024,Cultivate Back-End Metrics,Books,463.81,4,0.08,upi,Returned,Morbi,Karnataka,961145,
+ORD-10179,Wahab Chad,aarushkhurana@example.net,+916481941204,1992-11-19,Male,05-16-2022,Aggregate World-Class Roi,Clothing,2200.69,10,,CREDIT CARD,Delivered,,West Bengal,553549,No
+ORD-10180,Udarsh Upadhyay,tsandal@example.com,05700614963,1994-09-16,other,24/01/2022,Engineer Web-Enabled E-Business,clothing,678.31,5,0.06,Credit Card,Pending,Junagadh,Karnataka,146461,yes
+ORD-10181,Radhika Agarwal,bhanumatihayre@example.com,7132734447,1993-02-24,F,2024-12-08,Exploit Visionary Metrics,Home and Kitchen,324.42,3,0.13,credit card,Cancelled,Tadepalligudem,Nagaland,218274,Yes
+ORD-10182,Wahab Chawla,sathvikpandit@example.com,+913461752805,1971-09-01,F,2023-04-13,Generate Robust Architectures,Clothng,792.92,1,0.46,Net Banking,Shipped,Chennai,Mizoram,977540,no
+ORD-10183,Chaitaly Wable,umangchad@example.com,+912074231682,1961-03-29,Other,10-18-2023,Generate Compelling Metrics,Electronics,4031.47,7,,Cash on Delivery,Pending,Navi Mumbai,Assam,344061,yes
+ORD-10184,Chanakya Nagi,,08424430023,1973-09-01,FEMALE,2023-11-02,Syndicate Cutting-Edge Interfaces,Sports,3132.45,10,0.5,Debit Card,,Madanapalle,Manipur,371058,
+ORD-10185,,harrison92@example.com,+913741037667,1995-08-24,Female,18/05/2023,Implement Cross-Platform Functionalities,books,4392.13,1,0.19,UPI,Delivered,Bettiah,Telangana,329129,No
+ORD-10186,Radhika Jhaveri,orinderagate@example.org,+917972952921,1960-09-15,MALE,09 May 2024,Unleash E-Business E-Commerce,electronics,1195.79,7,0.19,credit card,Cancelled,Munger,Arunachal Pradesh,320852,No
+ORD-10187,Adya Kala,cchokshi@example.net,08584473344,1965-01-06,M,2024-03-18,Envisioneer Interactive Networks,Clothing,4262.02,7,0.37,upi,Returned,Ambarnath,Himachal Pradesh,259123,Yes
+ORD-10188,Upma Peri,wahabrao@example.org,+914043867681,1977-01-04,M,20/02/2023,Streamline Dot-Com Content,Home and Kitchen,2062.24,4,0.23,credit card,Delivered,Kolkata,Odisha,257680,N
+ORD-10189,Advika Vasa,ghosetanay@example.net,4733856988,1982-01-28,other,2023-09-16,E-Enable Frictionless Models,Clothing,2011.41,5,,,,Katihar,Punjab,763968,Y
+ORD-10190,Raagini Chandran,masonramachandran@example.com,07769993252,1986-11-29,Male,2023-05-27,Seize Efficient Communities,Electronics,4913.71,7,0.32,credit card,Cancelled,Kulti,Goa,350448,
+ORD-10191,Nidra Hegde,arjunhari@example.com,1049426493,2001-12-26,,2022-06-03,Facilitate Scalable Communities,ELECTRONICS,4244.01,2,,Cash on Delivery,Delivered,Kharagpur,Telangana,882534,Y
+ORD-10192,Falak Vyas,kshanker@example.org,06400934783,2007-08-07,Female,06 Jun 2024,Morph Intuitive Communities,Clothing,1411.16,3,,cod,Cancelled,Kolkata,Andhra Pradesh,014062,yes
+ORD-10193,Utkarsh Hora,dashkala@example.com,2302008464,1989-05-01,female,18 Oct 2024,E-Enable Bricks-And-Clicks Web Services,ELECTRONICS,3231.13,4,0.4,Credit Card,Returned,Siliguri,Karnataka,910574,yes
+ORD-10194,Radha Varma,naveenmahajan@example.net,+916835159756,1977-02-04,MALE,09 Sep 2024,Extend Collaborative Networks,ELECTRONICS,3005.73,5,,Cash on Delivery,Cancelled,Khandwa,Himachal Pradesh,611807,Y
+ORD-10195,Kamya Pall,qkhatri@example.net,3989660579,1992-01-29,,22/04/2023,Benchmark Transparent Metrics,BOOKS,4982.14,7,0.42,CREDIT CARD,Shipped,Tadepalligudem,Uttarakhand,554177,yes
+ORD-10196,Ubika Murthy,teerthdixit@example.org,+915651188736,1965-03-26,M,2024-01-05,Iterate Web-Enabled Roi,Books,4191.65,8,0.09,Credit Card,Delivered,Tadepalligudem,Uttarakhand,721707,Y
+ORD-10197,Gavin Bhargava,,7622947361,1987-02-01,m,2023-03-25,Leverage World-Class Applications,Sports,3598.84,6,,CREDIT CARD,Cancelled,Bilaspur,Jharkhand,046925,No
+ORD-10198,Ishwar Sarma,nchandra@example.org,07186716449,2006-05-21,female,08-16-2022,E-Enable Distributed Networks,Books,1543.74,3,0.22,Cash on Delivery,,Rohtak,Assam,813460,N
+ORD-10199,Udyati Varughese,nidranadig@example.net,+919864830000,1990-07-17,other,01/01/2024,Expedite Cross-Platform Convergence,BOOKS,929.66,500,0.2,cod,Delivered,Vellore,Andhra Pradesh,391683,yes
+ORD-10200,Bakhshi Raj,mohinidayal@example.org,4989837101,1967-11-15,m,2023-03-29,E-Enable Impactful Synergies,Clothng,881.04,2,0.34,upi,Returned,,Madhya Pradesh,331747,No
+ORD-10201,Deepa Prabhakar,iwali@example.org,+913731425296,2002-02-23,Male,2023-05-27,Disintermediate Integrated Paradigms,Home & Kitchen,2127.28,7,,COD,Returned,Bangalore,Mizoram,641355,no
+ORD-10202,Nimrat Kant,sthakur@example.net,,2001-12-14,Male,07/04/2023,Reinvent Cutting-Edge Niches,Clothng,568.39,7,0.04,credit card,Pending,Chandrapur,Nagaland,513615,Y
+ORD-10203,Avi Ben,wvenkatesh@example.com,7924827917,1967-02-26,female,2024-09-15,Engineer User-Centric Technologies,ELECTRONICS,1688.92,7,0.36,COD,Pending,Patna,Uttarakhand,741873,yes
+ORD-10204,Farhan Swaminathan,omaster@example.com,2570224268,1965-09-01,M,2023-05-02,Drive Proactive Architectures,Electronics,2166.65,10,0.05,Debit Card,Shipped,Gaya,Madhya Pradesh,167316,Yes
+ORD-10205,Rohan Anand,bhatpeter@example.net,+919671319359,1975-02-19,Other,2024-08-27,Drive Real-Time Channels,clothing,2743.42,7,0.22,UPI,Returned,Sri Ganganagar,Chhattisgarh,131160,No
+ORD-10206,Qabil D’Alia,parmerekani@example.net,6350967620,2004-12-25,Other,2023-07-05,Benchmark Strategic Info-Mediaries,Clothng,2099.23,4,0.42,COD,Returned,Ranchi,Meghalaya,648183,N
+ORD-10207,Harini Bala,irya45@example.com,7019677996,1969-06-21,other,30/08/2024,Maximize Compelling Mindshare,Electronics,4507.25,10,0.47,Cash on Delivery,Shipped,Begusarai,Meghalaya,705224,No
+ORD-10208,Osha Om,sharafupadhriti@example.com,08575241528,1967-08-08,female,10/03/2023,Deploy Ubiquitous Initiatives,Clothing,3154.77,5,0.36,credit card,Delivered,Gudivada,Goa,674390,no
+ORD-10209,Pratyush Tara,daskeya@example.net,,1994-09-22,other,10-30-2023,Morph Integrated Architectures,Books,3919.34,3,0.29,credit card,Delivered,Coimbatore,Assam,478652,Yes
+ORD-10210,Devika Reddy,cshanker@example.org,+916830431006,1976-10-15,FEMALE,08-09-2023,Streamline Front-End Web Services,Books,902.39,10,0.35,Credit Card,Returned,Ongole,Meghalaya,306120,yes
+ORD-10211,Jonathan Rastogi,zachariaaarnav@example.net,+910108190952,1993-04-15,Male,2023-05-02,Engineer Innovative E-Markets,Clothng,1550.12,8,0.34,Debit Card,Shipped,Tadipatri,Rajasthan,323980,N
+ORD-10212,Rachita Jha,gmital@example.org,7091920384,2003-05-01,m,06-26-2024,Repurpose Granular E-Services,Home and Kitchen,4128.65,9,0.41,COD,Shipped,Bulandshahr,West Bengal,785770,N
+ORD-10213,Bhanumati Khatri,pandyabrijesh@example.net,+917564525222,1979-12-20,Male,03 Nov 2024,Target B2C Metrics,ELECTRONICS,4173.0,4,,Credit Card,Pending,Munger,Himachal Pradesh,989277,yes
+ORD-10214,Fiyaz Sagar,ramananirudh@example.org,01038701306,1967-01-05,Male,25 Jan 2024,Incentivize Customized Mindshare,Clothing,2990.52,8,0.17,CREDIT CARD,Pending,Berhampore,Jharkhand,934379,N
+ORD-10215,Urvashi Rau,,6064529414,1968-08-12,,07-05-2022,Revolutionize Web-Enabled Experiences,Clothing,3254.53,5,0.26,Credit Card,Returned,Panipat,Arunachal Pradesh,916424,N
+ORD-10216,Patrick Mandal,andrewvaidya@example.net,+914191493115,1985-08-03,other,2022-12-21,Repurpose Visionary Action-Items,BOOKS,2147.84,6,0.11,UPI,,Bhimavaram,Arunachal Pradesh,729580,Y
+ORD-10217,,tpingle@example.net,+915962695566,1968-12-08,Female,2024-03-24,Re-Contextualize Seamless Functionalities,home & kitchen,3064.8,2,0.17,UPI,,Dhule,Meghalaya,232188,yes
+ORD-10218,Lila Biswas,malllaksh@example.org,06267794117,1963-10-12,Male,06-19-2023,Cultivate Seamless Interfaces,Sports,4059.64,6,0.36,Cash on Delivery,Pending,Vasai-Virar,Kerala,317738,no
+ORD-10219,Chandani Ratta,urmi50@example.net,+910724195850,1960-11-22,m,08 Apr 2024,Drive Enterprise Action-Items,Clothng,1150.7,8,0.34,COD,Pending,Shivpuri,Jharkhand,087686,
+ORD-10220,Warinder Dugar,ktank@example.com,01504981048,1981-10-10,,01-06-2023,Orchestrate Wireless Info-Mediaries,home & kitchen,956.19,6,0.11,Debit Card,,Bhagalpur,Haryana,310618,no
+ORD-10221,Ansh Dhar,spadmanabhan@example.com,8188764714,2005-07-15,F,11-10-2023,Unleash World-Class Supply-Chains,Electronics,2938.69,2,0.1,credit card,,Khandwa,Bihar,890531,yes
+ORD-10222,Chameli Sodhi,fkarnik@example.com,04458180694,1995-06-02,Female,2024-04-26,Syndicate Collaborative Relationships,Home & Kitchen,4469.58,3,0.36,credit card,Returned,Giridih,Goa,736265,No
+ORD-10223,,tiwariradha@example.net,09279984480,2003-03-25,M,2023-10-04,Engineer Granular Models,Books,2473.41,2,0.22,Net Banking,Returned,Aizawl,West Bengal,184888,no
+ORD-10224,Tejas Sami,ishwar01@example.net,+919566154566,1990-11-02,Male,2024-02-25,Facilitate Synergistic Vortals,Clothng,2678.62,1,0.12,upi,Pending,Serampore,Bihar,632697,no
+ORD-10225,Shravya Bhavsar,mdevi@example.com,+918456501327,2000-09-06,MALE,10-27-2024,Orchestrate Dot-Com Vortals,Home and Kitchen,3002.03,3,0.45,upi,Shipped,Dewas,Gujarat,343841,
+ORD-10226,Ira Shukla,jbhatnagar@example.net,02562779463,1983-01-14,other,2024-04-06,Scale Next-Generation Communities,Electronics,886.47,1,0.32,COD,Cancelled,Ambarnath,Bihar,811246,Yes
+ORD-10227,Ikshita Venkataraman,nsarin@example.net,+911607653890,1962-07-29,male,2022-08-10,Enable Wireless Architectures,home & kitchen,3524.25,1,0.33,COD,Pending,Thiruvananthapuram,Madhya Pradesh,825154,N
+ORD-10228,Nachiket Panchal,gabaarin@example.org,1904845019,2005-07-30,male,08 Oct 2022,Cultivate Front-End Synergies,clothing,576.01,4,0.42,Debit Card,Pending,Aizawl,Andhra Pradesh,697861,yes
+ORD-10229,Vincent Mandal,bbhatnagar@example.org,5817518884,1994-03-27,F,2022-11-25,Enable Global Communities,Clothng,113.11,2,0.33,CREDIT CARD,Delivered,Mau,Chhattisgarh,759387,Yes
+ORD-10230,Ishwar Mishra,zmutti@example.com,7812549441,1984-03-05,MALE,07-27-2022,Streamline Extensible Portals,Home and Kitchen,4075.23,5,0.34,Net Banking,,Nagaon,Karnataka,932761,
+ORD-10231,Nisha Malhotra,samakshgoyal@example.org,00297990379,2003-11-27,Female,2022-04-04,Exploit Front-End Vortals,Home and Kitchen,1378.13,6,0.09,Net Banking,Returned,Bhiwani,Meghalaya,289725,yes
+ORD-10232,Isha Basak,kaladamini@example.net,+917011243470,1967-10-05,male,29 Feb 2024,Morph Vertical Web-Readiness,ELECTRONICS,340.3,3,0.46,Cash on Delivery,Cancelled,Jehanabad,Manipur,055351,No
+ORD-10233,Warhi Guha,william14@example.org,01724993653,1984-05-15,other,02-17-2024,Utilize Leading-Edge Initiatives,ELECTRONICS,2466.21,8,,UPI,,Ghaziabad,Nagaland,196893,N
+ORD-10234,Janani Mody,pahal81@example.net,+911716375742,1991-07-17,f,10/12/2024,Deploy Open-Source Relationships,BOOKS,521.45,4,0.33,Net Banking,Shipped,Varanasi,Maharashtra,172237,Y
+ORD-10235,Farhan Dhar,tripathifarhan@example.net,5328687542,1976-03-24,F,2022-04-22,Harness Collaborative Portals,Sports & Outdoors,3769.58,6,0.03,Debit Card,Cancelled,Maheshtala,Tamil Nadu,898402,no
+ORD-10236,Bishakha Srinivas,advaith38@example.com,03876536693,2006-02-25,F,2023-04-27,Aggregate Real-Time Experiences,Home and Kitchen,4904.32,1,0.21,COD,Cancelled,,Tripura,302791,Yes
+ORD-10237,Jeet Baria,mkunda@example.com,+911036796871,1981-08-22,Male,16/09/2023,Architect Customized E-Tailers,Sports & Outdoors,2299.58,10,0.36,upi,,Tiruchirappalli,Arunachal Pradesh,339852,Yes
+ORD-10238,Pooja Mann,snatt@example.org,6669342543,1982-09-12,MALE,2023-03-31,Redefine Open-Source Eyeballs,home & kitchen,3525.38,3,0.41,Net Banking,Delivered,Deoghar,Karnataka,327870,No
+ORD-10239,Shivani Buch,oparekh@example.com,+919824914420,1971-09-24,,2023-01-20,Morph Clicks-And-Mortar Platforms,Clothing,583.44,10,0.45,Cash on Delivery,,Amravati,Meghalaya,640138,Y
+ORD-10240,,hdate@example.com,+914000326461,1965-05-21,female,03 Oct 2022,Extend Virtual Communities,Sports & Outdoors,4625.64,3,0.09,CREDIT CARD,Delivered,Ambarnath,Kerala,611148,Y
+ORD-10241,Ishani Basu,reddyishita@example.net,+911341483073,1965-08-16,m,22 Oct 2023,Iterate Vertical Supply-Chains,clothing,1747.15,3,0.3,COD,Pending,Srinagar,Kerala,556746,Y
+ORD-10242,Michael Sanghvi,borasanaya@example.org,09279997137,1967-03-10,Female,05/10/2023,Synthesize Holistic Content,books,3566.46,3,0.35,upi,,Bilaspur,Odisha,922684,yes
+ORD-10243,Vrishti Bansal,ansh04@example.net,1938872301,2007-08-19,female,10 Sep 2024,Aggregate Cross-Media Relationships,Sports,577.03,1,0.1,CREDIT CARD,Pending,Aurangabad,Chhattisgarh,571160,No
+ORD-10244,Indira Ratta,timothy58@example.org,05129396006,1986-09-18,F,05-08-2022,Scale Holistic Markets,electronics,3393.85,4,0.28,Debit Card,Cancelled,Ramgarh,Punjab,181586,
+ORD-10245,Max Sidhu,jeevikacontractor@example.com,04607906770,1972-09-15,Other,2023-08-13,Innovate One-To-One Methodologies,Clothng,316.32,4,0.39,Cash on Delivery,Shipped,Nashik,Andhra Pradesh,740822,N
+ORD-10246,Shravya Sastry,gaurika67@example.org,05667351867,1988-07-16,M,24/01/2024,Unleash Interactive Applications,books,4814.25,2,0.21,COD,Pending,Suryapet,Haryana,115653,Y
+ORD-10247,Vrishti Vasa,xpatel@example.com,04892122678,1969-04-05,M,2023-06-07,Engage Enterprise Models,Clothng,3879.62,5,0.29,upi,Delivered,Patiala,Andhra Pradesh,639373,yes
+ORD-10248,Rayaan Trivedi,mallickyashvi@example.net,+915278008914,1983-04-30,M,12/12/2024,Drive Synergistic Communities,Home & Kitchen,2046.91,4,0.17,UPI,Shipped,North Dumdum,Arunachal Pradesh,897604,Y
+ORD-10249,Sachi Murty,utkarshchaudhari@example.com,09862530340,1974-12-30,Male,22 Dec 2024,Embrace Ubiquitous Mindshare,,2256.05,10,,,,Tadepalligudem,Punjab,303358,no
+ORD-10250,Isaiah Chawla,palbhavna@example.net,,1968-03-19,f,21 Aug 2022,Morph Cross-Platform Partnerships,Sports & Outdoors,2595.83,8,,Debit Card,Pending,Hubli–Dharwad,Haryana,560349,Yes
+ORD-10251,Frederick Barman,lmanda@example.net,00464446465,1995-11-18,m,2022-12-09,Facilitate Proactive E-Commerce,Sports & Outdoors,4186.54,7,0.47,CREDIT CARD,Delivered,Patiala,Arunachal Pradesh,340752,yes
+ORD-10252,Mahika Agarwal,cherianadvay@example.com,2518053947,1993-03-21,male,2022-03-19,Leverage Viral Functionalities,Books,4559.38,8,0.22,Credit Card,Returned,Belgaum,Meghalaya,552536,Y
+ORD-10253,Harshil Master,hemang45@example.net,02853166897,1968-11-10,male,2022-01-13,Leverage Clicks-And-Mortar E-Services,Clothng,575.37,5,0.14,Cash on Delivery,Returned,Jamshedpur,Telangana,264023,N
+ORD-10254,Anya Ray,gauravshan@example.com,6446801667,1965-03-17,,05 Mar 2022,Exploit Frictionless E-Business,Sports,1510.14,5,0.46,upi,Delivered,Rampur,Maharashtra,567344,Y
+ORD-10255,Teerth Suresh,ybrahmbhatt@example.net,+914089614364,1990-08-17,f,2022-10-17,Monetize Bricks-And-Clicks Partnerships,electronics,3754.07,6,0.45,COD,Shipped,Rajpur Sonarpur,Haryana,785274,No
+ORD-10256,Rishi Lalla,anshkade@example.com,09369242380,2001-07-16,Male,02/06/2023,Integrate Mission-Critical Models,Sports & Outdoors,4950.88,9,,credit card,Pending,Hajipur,Madhya Pradesh,441520,N
+ORD-10257,Vasudha Din,mitesh72@example.com,01990398980,1971-01-12,MALE,09-24-2024,Utilize Back-End Platforms,Books,1007.82,6,0.15,cod,Shipped,Nagpur,Tamil Nadu,933195,yes
+ORD-10258,Hemal Saha,banjeetoommen@example.org,7330121978,1978-04-07,other,10 Oct 2023,Envisioneer Front-End Portals,BOOKS,1419.57,6,0.23,upi,Pending,Bharatpur,Punjab,420705,Yes
+ORD-10259,Anirudh Borra,zluthra@example.net,+912280460958,1977-08-01,f,2022-12-26,Enable Bricks-And-Clicks Interfaces,Clothing,4437.36,2,0.42,Credit Card,Cancelled,Bhind,Goa,508866,
+ORD-10260,Bhavika Saraf,ethan38@example.org,+914703398280,1988-03-17,F,2023-03-12,Embrace Integrated Experiences,books,1860.8,10,0.15,Cash on Delivery,Cancelled,Chittoor,Chhattisgarh,998737,no
+ORD-10261,Qarin Mitra,bhavnakothari@example.net,+912345779904,1962-10-20,FEMALE,2024-01-16,Facilitate Best-Of-Breed Communities,books,2594.98,3,0.28,CREDIT CARD,,Ramgarh,Karnataka,391809,yes
+ORD-10262,Raksha Nori,tshan@example.com,+916156405124,1963-03-24,m,24/03/2022,Redefine B2C Web Services,Electronics,2613.53,7,0.23,Credit Card,Delivered,Thane,Gujarat,262393,yes
+ORD-10263,Kalpit Ravel,hegdeamara@example.org,+917172430619,1975-01-05,M,07-31-2022,Brand 24/365 E-Business,Home & Kitchen,1858.22,2,0.19,Debit Card,Cancelled,Bhilwara,Rajasthan,566872,
+ORD-10264,Raghav Datta,dasqarin@example.net,,1964-01-30,M,08 Dec 2023,Incentivize Mission-Critical Systems,Home and Kitchen,431.59,4,0.08,cod,,Nadiad,Tamil Nadu,310779,N
+ORD-10265,Ladli Roy,arindhawan@example.net,8663751649,2005-04-12,F,17 Apr 2023,Reinvent Vertical Mindshare,Home and Kitchen,848.17,1,0.06,cod,Shipped,Satna,Tamil Nadu,957245,Y
+ORD-10266,Nilima Oak,hritik01@example.com,+913406108993,1995-08-28,female,22/03/2022,Generate Bricks-And-Clicks Niches,Books,3206.23,5,0.11,cod,Returned,Rampur,Rajasthan,928030,No
+ORD-10267,Xalak Chandran,wasonxalak@example.org,+913079338208,1966-03-26,M,26 Mar 2023,Morph Impactful Web-Readiness,Books,1359.38,6,0.3,credit card,Shipped,Kozhikode,Tripura,984592,No
+ORD-10268,Patrick Agrawal,srinivasanhemang@example.org,+915816795403,1969-07-28,female,2022-08-11,Repurpose Innovative Schemas,Sports & Outdoors,526.68,10,0.44,COD,Cancelled,Satara,Arunachal Pradesh,502576,Yes
+ORD-10269,Charles Buch,kvyas@example.net,,1968-06-11,,14/09/2024,Iterate Dynamic Web-Readiness,books,2634.12,1,0.21,Cash on Delivery,Returned,Firozabad,Sikkim,639271,
+ORD-10270,Maanav Narayanan,bhattharini@example.org,2338233570,2005-11-17,male,20 Jul 2022,Incentivize Seamless Vortals,clothing,2741.47,1,0.39,cod,Cancelled,Asansol,Gujarat,624505,Yes
+ORD-10271,Teerth Karnik,chaudharitejas@example.com,+915739982949,1990-06-17,M,08/02/2024,Unleash Enterprise E-Commerce,Home & Kitchen,1305.48,7,0.31,Net Banking,Shipped,Kota,West Bengal,724139,
+ORD-10272,Fariq Nori,gayathri83@example.net,08605878261,1979-02-20,MALE,15/09/2024,Streamline Value-Added Methodologies,Books,3542.2,2,0.22,CREDIT CARD,Delivered,Giridih,Jharkhand,849985,no
+ORD-10273,Yagnesh Kota,butalawarjas@example.com,,2002-09-19,male,2023-11-25,Synergize Web-Enabled Methodologies,Sports & Outdoors,4633.02,2,0.19,cod,Delivered,New Delhi,Tripura,298082,no
+ORD-10274,Luke Kunda,walianika@example.com,+910670309936,1988-03-13,M,12-03-2024,Disintermediate Vertical Eyeballs,books,103.02,9,0.02,cod,Cancelled,Salem,Assam,894964,No
+ORD-10275,Balendra Saran,jborah@example.com,00875908680,1966-01-05,male,2022-12-14,Mesh Viral Synergies,clothing,1797.98,10,0.01,credit card,Delivered,Chennai,Uttar Pradesh,162610,N
+ORD-10276,Upadhriti Pradhan,zansibahri@example.org,2139643179,1983-05-21,m,12-14-2023,Expedite End-To-End Info-Mediaries,Home and Kitchen,2895.79,7,0.28,COD,Pending,Amravati,Andhra Pradesh,695811,Yes
+ORD-10277,Forum Ratta,nathan14@example.net,5751023552,1983-01-23,other,11-17-2024,Harness Distributed Systems,Home and Kitchen,2837.68,6,,Cash on Delivery,Cancelled,Ahmedabad,Uttarakhand,123769,no
+ORD-10278,Vasana Agrawal,qabil14@example.com,+916890109627,1976-12-01,Other,08-27-2022,Synergize Extensible E-Tailers,BOOKS,1612.87,9,0.35,UPI,Shipped,Machilipatnam,Chhattisgarh,401993,no
+ORD-10279,Darika Rana,ngolla@example.com,5401086356,1983-08-12,m,2023-12-02,Facilitate Distributed Roi,Books,4738.23,4,0.1,Debit Card,Pending,Barasat,Himachal Pradesh,554325,No
+ORD-10280,Kiaan Guha,rishiparmar@example.com,06454485192,1963-02-18,Other,05-27-2023,Repurpose Impactful Models,books,82.79,1,0.19,upi,Returned,Nangloi Jat,Punjab,134648,Y
+ORD-10281,Balhaar Baral,chatreshravi@example.net,01152115774,1973-07-17,female,17 Jul 2023,Engage Visionary Supply-Chains,Clothing,684.82,7,0.27,COD,Pending,Bhilai,Karnataka,764128,N
+ORD-10282,Utkarsh Devi,mgara@example.net,07588103703,1977-11-01,other,24 Dec 2022,Evolve Cross-Media Vortals,Electronics,1093.22,6,0.43,CREDIT CARD,Cancelled,Shahjahanpur,Telangana,137185,yes
+ORD-10283,Amrita Puri,rrana@example.com,+916540633273,1963-11-23,other,08-23-2024,Productize Collaborative Convergence,Sports,4278.91,3,0.49,Debit Card,Delivered,Kota,Madhya Pradesh,485124,
+ORD-10284,Saumya Sankaran,jbala@example.net,02311116593,2001-09-15,other,28 Apr 2023,Envisioneer One-To-One Vortals,ELECTRONICS,98.22,3,0.42,COD,Cancelled,Avadi,Meghalaya,139085,
+ORD-10285,Dakshesh Nigam,deohemal@example.org,,2005-05-26,male,09-23-2024,Transform Dynamic Initiatives,BOOKS,1116.56,2,0.17,upi,Pending,Jammu,Nagaland,943784,
+ORD-10286,,rrai@example.net,+917245372197,1969-06-09,FEMALE,06-12-2023,Synthesize Sticky Functionalities,Clothing,3266.83,5,0.34,Cash on Delivery,,Serampore,West Bengal,632758,Yes
+ORD-10287,Radhika Jha,madhav49@example.net,+914849754745,1998-11-05,Other,02-20-2024,Architect Enterprise Bandwidth,Sports,2137.99,7,0.04,CREDIT CARD,Pending,Gulbarga,Uttarakhand,684292,yes
+ORD-10288,Bimala Sangha,wridesh71@example.com,03358129805,1965-10-20,,08-20-2023,Reinvent Proactive Channels,Sports & Outdoors,3752.08,8,0.09,Credit Card,Shipped,Korba,Andhra Pradesh,243977,N
+ORD-10289,Ridhi Dash,basukiaan@example.org,+914318856252,2001-07-20,F,2023-05-31,Innovate Cross-Platform Systems,home & kitchen,3866.12,2,,,,Bhind,Madhya Pradesh,183209,no
+ORD-10290,Lila Golla,ayush21@example.com,08719994452,1982-07-11,M,26/09/2023,Transition Bleeding-Edge Supply-Chains,home & kitchen,191.43,6,0.23,COD,Pending,Bhiwandi,West Bengal,547889,No
+ORD-10291,Oeshi Garde,vanya27@example.org,03335984362,1978-01-22,f,29 Dec 2022,Mesh Dot-Com Methodologies,books,1582.82,9,0.04,UPI,Pending,Yamunanagar,Jharkhand,084186,No
+ORD-10292,,akshay26@example.com,04975847624,1978-06-14,Female,2023-09-14,Visualize Dot-Com Communities,clothing,91.17,8,0.38,UPI,Cancelled,Noida,Rajasthan,658557,Yes
+ORD-10293,Pahal Palla,thakurdiya@example.net,+919283139644,1973-08-30,M,05/02/2024,Benchmark B2C Channels,BOOKS,1979.13,5,,Debit Card,,Patiala,Karnataka,314303,Y
+ORD-10294,Varsha Datta,jai29@example.org,3775985174,1969-08-11,m,07-11-2023,Brand Efficient Experiences,Sports & Outdoors,726.29,8,0.14,cod,Returned,Madurai,Gujarat,048762,Yes
+ORD-10295,Samesh Sahota,,+915939573929,1973-07-18,MALE,2022-11-08,Innovate Rich Convergence,clothing,2220.16,0,,upi,Returned,Karimnagar,Bihar,415581,
+ORD-10296,Shivansh Sule,nsura@example.net,2507090104,1990-11-13,,10-17-2024,Architect Scalable Action-Items,ELECTRONICS,3889.48,8,0.45,UPI,Returned,Agra,West Bengal,696932,Yes
+ORD-10297,Hemani Jha,urmi93@example.com,7016929220,2001-05-29,Male,25 May 2023,Integrate Revolutionary Bandwidth,Clothing,3866.43,4,0.34,UPI,Pending,Raichur,Sikkim,392306,N
+ORD-10298,Hemangini Bir,mhalder@example.net,+917371605546,1989-06-24,Male,2022-03-28,Empower Plug-And-Play Action-Items,Sports & Outdoors,4867.71,7,0.08,UPI,Cancelled,Ongole,Manipur,360363,
+ORD-10299,Mason Loke,ushroff@example.net,+919491913155,1996-08-18,other,2023-05-13,Synthesize Magnetic Deliverables,Books,3865.45,8,,cod,Pending,Tenali,Gujarat,409877,
+ORD-10300,Nandini Gade,dhaliwalsiya@example.org,0567598267,2004-08-22,male,2022-05-03,Evolve Impactful Schemas,ELECTRONICS,1617.86,6,0.22,Debit Card,Delivered,Tumkur,Tripura,771168,yes
+ORD-10301,Siya Bath,aradhana31@example.org,6000289968,1989-05-18,MALE,10-03-2022,Scale Back-End E-Commerce,home & kitchen,989.39,6,0.23,cod,Cancelled,Firozabad,Chhattisgarh,529981,Y
+ORD-10302,Zehaan Agate,lsabharwal@example.org,0104580724,1981-12-08,Male,14 Nov 2022,Deliver Strategic Niches,Sports,1926.27,1,0.18,cod,Shipped,Nashik,Uttar Pradesh,432749,Yes
+ORD-10303,Sara Nazareth,kmahajan@example.com,0428222793,2003-09-02,FEMALE,04/03/2024,Scale Cross-Platform Content,clothing,3222.47,9,0.02,CREDIT CARD,Shipped,Dhule,Punjab,119337,No
+ORD-10304,Triya Salvi,,+918362989084,1974-03-13,female,08 Aug 2022,Innovate Scalable Applications,,3138.65,1,,,,Bulandshahr,Sikkim,882985,No
+ORD-10305,Jhalak Koshy,etalala@example.net,+918967879016,1990-02-19,other,2024-10-03,Engage Rich Partnerships,,3981.54,10,,,,Gaya,Sikkim,313812,No
+ORD-10306,Pavani Murthy,zaitra24@example.org,5019186263,1965-03-29,m,2024-11-29,Optimize Mission-Critical Architectures,home & kitchen,2871.64,9,,credit card,,Deoghar,Tamil Nadu,830392,N
+ORD-10307,Shravya Suri,unnatinadig@example.com,1520356884,1961-02-20,female,28 Jul 2024,Generate Out-Of-The-Box Synergies,home & kitchen,832.97,8,0.45,COD,Pending,Farrukhabad,Gujarat,155924,no
+ORD-10308,Sathvik Barad,agatetejas@example.org,00022585468,1967-02-10,,05-31-2024,Evolve Frictionless Functionalities,home & kitchen,1307.74,8,0.0,Credit Card,Pending,Sangli-Miraj & Kupwad,Andhra Pradesh,635965,Y
+ORD-10309,,jagat46@example.com,06198515705,1974-03-29,Female,10-04-2022,Synthesize Compelling Action-Items,Electronics,4719.57,9,0.29,cod,Shipped,Tadipatri,Nagaland,433590,no
+ORD-10310,Peter Kade,aachal03@example.com,7984710964,1974-01-29,m,30/12/2023,Transition End-To-End E-Business,,504.93,4,,,,Bhimavaram,Kerala,116255,N
+ORD-10311,Rudra Chatterjee,vihaan11@example.net,8252398212,1960-11-09,,07-15-2022,Strategize Synergistic Metrics,Electronics,1705.23,7,,Debit Card,,Nandyal,Odisha,549339,Y
+ORD-10312,Dev Mukherjee,kataekiya@example.net,8289257730,1964-05-02,FEMALE,24 Jan 2022,Disintermediate Frictionless Infrastructures,ELECTRONICS,3503.95,7,,cod,,Barasat,Madhya Pradesh,344714,no
+ORD-10313,Finn Murthy,jbatra@example.org,08118690083,1991-02-01,other,17 Aug 2023,Grow Strategic E-Commerce,Electronics,1349.66,7,0.07,CREDIT CARD,Returned,Bulandshahr,Jharkhand,384301,no
+ORD-10314,Lohit Sampath,hdivan@example.net,+915846930399,1975-04-18,m,20/03/2024,Visualize User-Centric E-Commerce,electronics,2178.83,10,,Net Banking,Returned,Berhampore,Bihar,715773,No
+ORD-10315,Chameli Dewan,,+916857586011,1982-05-05,Female,10-19-2023,Deploy Vertical Metrics,Books,4023.84,8,,Debit Card,Shipped,Tadepalligudem,Chhattisgarh,817203,No
+ORD-10316,Chasmum Mitra,munshiavi@example.org,+917486436198,2004-09-24,M,2022-06-25,Monetize Bricks-And-Clicks Web-Readiness,Sports & Outdoors,1474.04,2,0.24,upi,Shipped,New Delhi,Goa,824902,No
+ORD-10317,Arin Saha,jyoti63@example.com,01832608306,1960-11-23,other,02-22-2023,Seize Bricks-And-Clicks Infrastructures,BOOKS,1914.2,9,,CREDIT CARD,Delivered,Kulti,Tripura,828784,
+ORD-10318,Warinder Ravel,bandimeghana@example.com,,1984-12-19,Other,2023-07-10,Whiteboard Back-End Solutions,clothing,4568.7,2,,Net Banking,Shipped,Bilaspur,Tamil Nadu,437527,Y
+ORD-10319,Prisha Nori,janujaprakash@example.net,+913942230670,1979-04-25,m,07-23-2022,Engineer Plug-And-Play Metrics,home & kitchen,2825.4,1,0.26,upi,Returned,Naihati,Maharashtra,804512,No
+ORD-10320,Vedika Aurora,dugalurvi@example.com,2563514936,1980-08-16,f,02-07-2022,Synthesize Intuitive Info-Mediaries,clothing,3147.67,1,0.47,Debit Card,Shipped,Kottayam,Uttarakhand,980940,no
+ORD-10321,Osha Keer,chaturanadig@example.net,09811685561,1980-10-25,Other,2022-10-09,Iterate Granular Portals,books,1239.79,5,0.16,COD,Shipped,Uluberia,West Bengal,002429,No
+ORD-10322,Zashil Memon,khayre@example.org,08377934294,1975-10-19,M,19/02/2023,Engineer 24/7 Action-Items,,4880.1,10,,,,Tinsukia,Tamil Nadu,626564,Yes
+ORD-10323,Chandresh Mann,urvashikrishnan@example.net,,1970-07-05,Female,01-13-2023,Aggregate Innovative Deliverables,Home & Kitchen,1551.57,5,0.09,CREDIT CARD,Shipped,,Jharkhand,074002,Y
+ORD-10324,Ojasvi Wadhwa,bhanumati65@example.net,,1969-04-27,male,01/07/2023,Aggregate User-Centric Markets,BOOKS,713.73,8,0.19,Net Banking,Returned,Jalgaon,Uttar Pradesh,161121,No
+ORD-10325,Imaran Kaur,jananipal@example.org,,1966-06-30,MALE,31/01/2023,Redefine User-Centric Methodologies,Home & Kitchen,3373.13,4,,Cash on Delivery,Cancelled,Madurai,Madhya Pradesh,565164,yes
+ORD-10326,Umang Goyal,raygabriel@example.com,8099940309,1986-06-29,female,26/07/2024,Transition Visionary Functionalities,BOOKS,3076.95,10,,Credit Card,Cancelled,Sultan Pur Majra,Nagaland,556094,no
+ORD-10327,Rohan Jhaveri,prabhuwidisha@example.com,02692404488,1965-02-10,f,28/03/2022,Seize Back-End Vortals,Home & Kitchen,3171.71,5,0.44,UPI,Returned,Pali,Karnataka,398997,yes
+ORD-10328,Samaksh Talwar,pathaksanaya@example.org,9103315985,1990-04-22,f,22/04/2022,Mesh Cross-Media Applications,electronics,2947.97,9,0.21,Cash on Delivery,Delivered,Berhampur,Uttarakhand,006512,Y
+ORD-10329,Tanish Vora,cbhat@example.net,+911633872368,1969-01-13,other,18 Feb 2023,E-Enable Impactful Web Services,Sports,3679.65,8,,Net Banking,,Tiruppur,Gujarat,286288,Y
+ORD-10330,Benjamin Prabhakar,,7026404654,1995-02-23,Female,24 Nov 2022,Unleash Proactive Models,Books,4320.23,3,,Net Banking,Pending,Tirunelveli,Gujarat,959203,
+ORD-10331,Sai Kale,karansathe@example.net,+911703607607,2000-09-20,m,07-02-2024,Deploy Proactive Web Services,Electronics,1302.9,8,0.0,Cash on Delivery,Shipped,Kota,Uttar Pradesh,452752,N
+ORD-10332,Zashil Boase,chaudryedhitha@example.net,09783712780,2005-11-20,m,01 Sep 2024,Benchmark Bricks-And-Clicks Initiatives,home & kitchen,3161.75,4,,CREDIT CARD,Delivered,Fatehpur,Kerala,079606,Yes
+ORD-10333,Radhika Banik,ayushmandalal@example.org,2404613294,1966-09-01,male,2022-10-25,Morph Back-End E-Markets,Electronics,4968.99,5,0.35,cod,Cancelled,Tenali,Sikkim,991123,No
+ORD-10334,Jagvi Sarna,mayapanchal@example.net,03672705600,2003-06-18,Female,07-21-2024,Iterate Cross-Platform Supply-Chains,Home & Kitchen,3804.29,2,0.07,UPI,Pending,Adoni,Himachal Pradesh,582939,Y
+ORD-10335,Garima Rattan,tsathe@example.org,0408467946,1997-01-25,Other,06/03/2023,Enable Strategic Web Services,home & kitchen,2444.13,5,0.42,UPI,Cancelled,Bijapur,Maharashtra,237708,Y
+ORD-10336,Arin Sachdev,pmagar@example.com,05271042698,1987-01-30,F,26/12/2023,Deploy Frictionless Platforms,Home and Kitchen,4424.14,5,0.0,Credit Card,Returned,Hosur,Maharashtra,128227,Yes
+ORD-10337,Edhitha Divan,chadjanani@example.org,+915890254968,1985-04-05,Other,01 Mar 2023,Integrate One-To-One Info-Mediaries,Clothing,1045.88,2,0.25,upi,Delivered,Agra,Uttarakhand,360947,yes
+ORD-10338,Peter Natarajan,vedant07@example.net,,1963-06-12,M,01 Dec 2023,Harness Impactful Paradigms,Clothing,1722.79,8,0.32,Cash on Delivery,Shipped,Purnia,Tripura,216465,
+ORD-10339,Devika Iyer,nathanielkant@example.org,+918705899945,1988-12-16,f,18 Nov 2023,Morph End-To-End E-Markets,clothing,3407.08,1,0.34,upi,Delivered,Thoothukudi,Goa,359868,yes
+ORD-10340,Bhavini Sehgal,cmohanty@example.org,+919984632570,1983-10-12,FEMALE,03-05-2022,Visualize Visionary Portals,,2996.2,5,,,,Mau,Chhattisgarh,003038,no
+ORD-10341,Vedika Thakkar,esachar@example.org,04390406581,1994-02-05,MALE,05-02-2023,Leverage World-Class Models,ELECTRONICS,3935.47,2,0.01,Cash on Delivery,Cancelled,Giridih,Uttar Pradesh,375414,yes
+ORD-10342,Amara Luthra,kkeer@example.com,0855569007,1971-07-05,f,09-17-2024,Visualize Cutting-Edge Content,books,1065.68,7,,Credit Card,Pending,Nagaon,Arunachal Pradesh,497240,N
+ORD-10343,Tara Yogi,,3640149757,1985-11-28,Other,06-28-2022,Engineer 24/365 Synergies,BOOKS,2908.92,4,0.1,UPI,Cancelled,Sonipat,Meghalaya,405444,no
+ORD-10344,Upma Amble,sameshsur@example.net,,1998-01-25,FEMALE,08-29-2022,Implement B2B Functionalities,home & kitchen,1072.56,6,0.47,UPI,Cancelled,Khandwa,Arunachal Pradesh,419376,Yes
+ORD-10345,Isha Parmar,modydaksh@example.org,,2007-01-22,Other,09-30-2023,Strategize One-To-One Action-Items,Electronics,316.31,3,,Cash on Delivery,Cancelled,Gangtok,Mizoram,480804,yes
+ORD-10346,Farhan Lalla,yamini11@example.net,07476215631,1994-05-11,M,2023-02-10,Architect Value-Added Mindshare,electronics,4602.46,8,0.32,Cash on Delivery,Returned,Bhatpara,Odisha,672181,No
+ORD-10347,Jeremiah Wable,valaomaja@example.com,8939664574,1974-06-29,Other,10-22-2022,Re-Contextualize Value-Added Web Services,Clothng,4417.9,1,,credit card,Pending,Bihar Sharif,Sikkim,660200,
+ORD-10348,Eiravati Kade,bhasinchavvi@example.org,05313733102,1963-09-11,male,12-16-2022,Grow Synergistic Convergence,Home & Kitchen,3993.95,2,0.27,Net Banking,Cancelled,Ichalkaranji,Madhya Pradesh,194870,Y
+ORD-10349,Udarsh Hora,mmunshi@example.com,7367760134,2000-11-10,other,15/05/2023,Orchestrate Proactive Methodologies,Books,4902.02,6,0.12,credit card,,Nandyal,Karnataka,448915,Y
+ORD-10350,Vidhi Mital,balvan34@example.net,+913048524408,1987-05-15,F,2024-09-23,Enhance Web-Enabled Convergence,ELECTRONICS,2058.68,10,0.19,Cash on Delivery,,Ahmednagar,West Bengal,119352,Yes
+ORD-10351,Shivani Iyengar,jpatla@example.org,5833397560,1976-11-27,Male,22/03/2023,Matrix Front-End Schemas,Sports,788.62,7,0.22,Debit Card,,Bhavnagar,Goa,278238,yes
+ORD-10352,Dipta Balay,siddharthvenkatesh@example.org,+911692328985,1978-08-10,FEMALE,16 Sep 2023,Transform Compelling Systems,Electronics,2576.6,5,,COD,Delivered,,Rajasthan,296782,Y
+ORD-10353,Nisha Mitter,mchoudhary@example.org,05277273076,1993-05-28,other,2024-01-06,Architect Leading-Edge Initiatives,Books,1624.73,7,0.11,CREDIT CARD,Returned,Anantapur,Maharashtra,218585,Y
+ORD-10354,Yashodhara Hari,keyajoshi@example.org,5823301589,1996-03-11,Other,02-27-2024,Transition 24/365 E-Commerce,ELECTRONICS,405.14,8,0.49,CREDIT CARD,Delivered,Rampur,Uttarakhand,940682,
+ORD-10355,Bachittar Menon,badamimitesh@example.org,9963185372,1992-07-11,FEMALE,01 May 2024,Integrate Turn-Key Communities,ELECTRONICS,2149.42,7,0.09,cod,Delivered,Hubli–Dharwad,Bihar,683545,
+ORD-10356,Anay Sahni,uchaudry@example.net,+915291166388,1992-02-18,Male,04-30-2023,Brand Strategic Schemas,Books,1874.46,2,0.37,UPI,Returned,Kulti,Sikkim,355333,Y
+ORD-10357,Indira Ahuja,jacksonthakur@example.com,9365418323,2004-02-22,male,01/07/2022,Target Innovative E-Services,books,4000.59,1,0.27,Credit Card,Returned,Bokaro,Rajasthan,935522,no
+ORD-10358,Indali Setty,alexandermall@example.com,5422966905,2001-02-11,M,10 Nov 2023,Embrace Seamless Deliverables,Electronics,3008.3,10,0.31,cod,Shipped,Machilipatnam,Tripura,500805,N
+ORD-10359,Nitara Jhaveri,janyaborra@example.com,7874709794,1977-11-12,,2023-08-21,Deploy Intuitive Portals,clothing,3098.2,5,,credit card,Cancelled,Kharagpur,Rajasthan,315400,Y
+ORD-10360,Nidhi Barad,radhamukhopadhyay@example.net,7777323297,2007-05-26,m,06 Nov 2022,Orchestrate 24/7 Applications,Home and Kitchen,2660.57,2,0.3,CREDIT CARD,Returned,Latur,Tamil Nadu,047838,no
+ORD-10361,Shivani Karan,ranafalak@example.org,01632097234,1996-10-20,FEMALE,24/02/2024,Productize Best-Of-Breed Systems,BOOKS,318.91,2,,Cash on Delivery,Returned,Jalna,Haryana,826585,no
+ORD-10362,Avni Kala,upandit@example.net,1841829352,2005-10-20,M,26/12/2024,Envisioneer B2C Experiences,home & kitchen,108.72,8,0.16,COD,,Gandhinagar,Nagaland,240726,Yes
+ORD-10363,Nathan Acharya,isaacmagar@example.net,+911949280391,1988-12-22,MALE,12-24-2024,Engineer B2C Deliverables,Clothng,4021.47,10,0.39,Debit Card,,Motihari,Gujarat,767459,
+ORD-10364,Prisha Murthy,madhav56@example.com,0894967606,1996-10-17,Male,02-04-2023,Utilize Turn-Key E-Commerce,books,-99.0,2,0.34,upi,Shipped,Giridih,Odisha,534311,yes
+ORD-10365,Aishani Kuruvilla,bhavika54@example.net,00865730058,1991-08-13,Other,2023-01-31,Brand Global E-Tailers,Sports & Outdoors,3016.96,2,,cod,Shipped,Gaya,Goa,650726,
+ORD-10366,Bishakha Solanki,auroraarjun@example.org,3936724689,1998-12-08,male,2023-01-14,Enable Killer Models,books,4976.47,6,0.39,UPI,Delivered,Ambattur,Bihar,150339,yes
+ORD-10367,Ekaraj Iyer,jason16@example.org,+910073678693,1997-09-28,F,05-04-2022,Seize B2B Convergence,Clothing,933.29,3,0.22,cod,,Siwan,Chhattisgarh,214338,no
+ORD-10368,Manthan Sarin,ijayadalal@example.net,+914248648880,1974-07-02,,2023-06-15,Aggregate One-To-One Mindshare,Home and Kitchen,2513.62,1,0.33,UPI,Shipped,Suryapet,Assam,354697,no
+ORD-10369,Jasmit Natt,libnisinha@example.org,4838165813,1967-06-26,,08 Jan 2022,Enable Back-End Experiences,Sports,1167.94,8,0.27,upi,Pending,Bokaro,Tamil Nadu,829778,no
+ORD-10370,Omya Bhakta,chans@example.net,07813598848,1970-08-19,F,2022-04-24,Utilize Killer Metrics,Sports,3256.57,1,0.33,UPI,,Vellore,Jharkhand,192730,Yes
+ORD-10371,Kavya Kalla,orege@example.org,+911317450739,1969-05-26,M,06 Jan 2024,Orchestrate Holistic Content,Electronics,3612.71,8,0.4,UPI,Returned,Imphal,Arunachal Pradesh,402769,
+ORD-10372,Ishwar Munshi,asangha@example.net,00525071568,2004-11-18,Male,2024-07-09,Harness Proactive Roi,Home & Kitchen,4045.16,8,0.44,COD,Shipped,Bellary,Haryana,718983,No
+ORD-10373,Chandresh Morar,jagdish86@example.com,,1969-08-12,FEMALE,2022-05-28,Matrix Web-Enabled E-Commerce,Electronics,3261.49,1,0.41,credit card,Returned,Pali,Gujarat,586167,
+ORD-10374,Forum Divan,anikavora@example.org,06660429674,1973-03-01,male,2022-05-11,Incentivize Mission-Critical E-Services,Sports,1719.85,7,,cod,Cancelled,South Dumdum,Jharkhand,137893,
+ORD-10375,Bhavna Srivastava,ikade@example.com,9240124671,2002-05-12,M,2023-03-13,Integrate Back-End Experiences,Sports,3496.66,8,0.29,CREDIT CARD,Delivered,Serampore,Arunachal Pradesh,864090,N
+ORD-10376,,dugarojas@example.net,,1967-04-29,M,10/02/2024,Productize Synergistic Functionalities,electronics,2988.97,8,0.1,UPI,Cancelled,Amravati,Chhattisgarh,684826,No
+ORD-10377,Ekta Chakraborty,zbaria@example.com,5171749477,1978-09-03,male,2022-12-24,Syndicate Wireless Bandwidth,books,1540.94,9,0.06,COD,Delivered,Tirunelveli,Manipur,305623,
+ORD-10378,Vidhi Tandon,advay75@example.com,+919735934680,1977-04-07,Male,05/11/2024,Reinvent Virtual E-Services,Clothing,788.63,8,0.08,Credit Card,Delivered,Chittoor,Bihar,684881,yes
+ORD-10379,Yashvi Patla,henry50@example.com,4117775635,1984-02-16,F,06 Mar 2023,Innovate E-Business Web-Readiness,Electronics,309.66,3,0.24,credit card,Delivered,Yamunanagar,Arunachal Pradesh,517982,N
+ORD-10380,Indira Tank,bishakhasaha@example.net,6282615386,2000-05-11,m,06-29-2024,Revolutionize Dynamic Initiatives,Sports,1177.52,7,0.19,Debit Card,Delivered,Kochi,Manipur,083864,no
+ORD-10381,Charan Sanghvi,chadhawilliam@example.net,07387970033,2002-03-18,female,22 Apr 2022,Deploy Virtual Technologies,Clothng,3613.12,5,0.06,cod,Delivered,Nashik,Arunachal Pradesh,685197,Yes
+ORD-10382,Elijah Bhardwaj,nkunda@example.net,+913964039501,1992-03-18,MALE,11 Aug 2024,Optimize Integrated Vortals,Books,3983.1,3,0.28,Debit Card,Delivered,Srikakulam,Nagaland,616909,Y
+ORD-10383,Karan Nadkarni,george10@example.com,07120943344,1969-07-12,other,28/09/2024,Synergize Open-Source Niches,Home & Kitchen,1270.94,10,0.46,CREDIT CARD,Cancelled,Ichalkaranji,Jharkhand,245546,no
+ORD-10384,Nikita Madan,sacharmanan@example.com,1617942316,1986-01-12,female,2022-04-01,Utilize User-Centric Eyeballs,home & kitchen,4058.1,2,0.12,COD,Delivered,Ichalkaranji,Gujarat,524689,no
+ORD-10385,Vedika Balakrishnan,kkarnik@example.net,+913240527992,2000-04-23,Male,23/03/2023,Engineer Global E-Business,Home and Kitchen,850.92,10,0.01,Cash on Delivery,Returned,Ambala,Manipur,951892,
+ORD-10386,Akshay Varty,wnazareth@example.org,05302288296,1986-08-21,Other,10/04/2024,Expedite Best-Of-Breed E-Business,Electronics,399.96,6,0.15,UPI,,Hindupur,Tamil Nadu,290990,Y
+ORD-10387,Yoshita Kapur,priyaray@example.net,3784856382,1999-07-21,f,2023-03-01,Facilitate Collaborative Channels,books,305.23,8,0.18,CREDIT CARD,,Bettiah,Himachal Pradesh,687878,Yes
+ORD-10388,Daksha Manne,tailoryash@example.org,+911374854600,1963-04-03,F,24/02/2023,Revolutionize Interactive Relationships,BOOKS,2921.59,4,0.38,upi,Pending,Ratlam,Chhattisgarh,210394,Y
+ORD-10389,Barkha Keer,nandinivyas@example.net,+916999137431,1988-08-19,f,05-16-2024,Revolutionize Magnetic Methodologies,home & kitchen,2377.31,9,0.23,upi,,Dehradun,Chhattisgarh,955277,
+ORD-10390,Balhaar Loke,lankafitan@example.com,+915296727481,1982-08-24,M,15/05/2022,Envisioneer World-Class Systems,clothing,430.89,2,0.25,Debit Card,Cancelled,Anand,Arunachal Pradesh,609958,Yes
+ORD-10391,Rishi Wali,kprashad@example.org,+916394772122,1983-06-22,Female,24 Aug 2023,Synthesize End-To-End Web-Readiness,Home & Kitchen,3241.19,2,,Debit Card,Cancelled,Thanjavur,Nagaland,326127,no
+ORD-10392,Daniel Sinha,singhaladya@example.org,4980863133,1965-08-20,f,12-04-2023,Utilize Cutting-Edge Content,Home and Kitchen,2857.9,5,0.13,Cash on Delivery,Pending,Jamalpur,Manipur,913341,
+ORD-10393,Saumya Roy,ksoni@example.net,+918716732256,1971-04-18,M,07/04/2022,Optimize Collaborative Initiatives,BOOKS,952.29,3,0.06,upi,Cancelled,Agartala,Assam,069931,yes
+ORD-10394,Upma Loke,darpan45@example.net,0595888902,1971-03-16,Female,28/01/2024,Implement Seamless Bandwidth,ELECTRONICS,2722.34,5,0.01,Cash on Delivery,Shipped,Hosur,Rajasthan,176646,yes
+ORD-10395,Zaitra Yohannan,geetika90@example.com,+919191659730,1971-10-24,Other,2022-11-16,Enable Virtual Web Services,BOOKS,4485.09,10,0.4,Cash on Delivery,Pending,Giridih,Meghalaya,408414,N
+ORD-10396,Azad Dasgupta,wahab70@example.net,+914457276941,1995-11-22,female,2024-09-07,Mesh Next-Generation Bandwidth,Books,2257.56,1,0.1,COD,Shipped,Solapur,Mizoram,660554,
+ORD-10397,Advik Thakur,xsankar@example.org,1661262065,2003-04-19,Other,24/07/2023,Transform Dot-Com Bandwidth,electronics,2002.4,10,0.47,upi,Returned,Tinsukia,West Bengal,426869,
+ORD-10398,Henry Bumb,,07151103268,1966-10-10,MALE,05-25-2024,Implement Wireless Convergence,Home and Kitchen,483.61,8,0.21,Cash on Delivery,Pending,Anand,Goa,331815,N
+ORD-10399,Lipika Raja,sridharkai@example.net,06530307008,1971-02-14,m,18 May 2024,Incubate Interactive Technologies,clothing,4344.25,2,0.3,Net Banking,Delivered,,Goa,608610,N
+ORD-10400,Manya Mistry,cbhandari@example.org,4278565732,1974-05-25,M,14 Jul 2023,Transition Value-Added Supply-Chains,Clothing,1939.76,1,0.15,cod,Pending,Gopalpur,Telangana,614747,N
+ORD-10401,Rachana Sen,,6194896354,1998-11-08,Other,07/08/2024,Enable Granular Roi,Sports & Outdoors,664.68,5,,Debit Card,Delivered,Fatehpur,Gujarat,252169,yes
+ORD-10402,Daksh Jhaveri,theodorenarula@example.net,06598418668,1978-06-01,female,2024-10-06,Revolutionize Frictionless Partnerships,Sports & Outdoors,3445.27,2,0.37,Credit Card,Pending,Jalandhar,Himachal Pradesh,313024,Yes
+ORD-10403,Madhavi Ravi,gopalbumb@example.org,+911623833519,1969-07-25,Male,10-27-2022,Monetize Innovative Relationships,clothing,3199.42,1,0.26,credit card,Cancelled,Hajipur,Rajasthan,006459,N
+ORD-10404,Andrew Narayanan,udyati53@example.net,09670814212,1989-11-08,Female,2023-01-11,Incentivize Plug-And-Play Roi,Sports & Outdoors,4009.39,6,,cod,Pending,Jorhat,Chhattisgarh,131624,Yes
+ORD-10405,Jagat Sinha,harita99@example.com,+915061480151,1987-01-17,M,10-08-2022,Incubate Ubiquitous E-Commerce,electronics,2541.75,9,0.42,COD,Cancelled,Navi Mumbai,Manipur,386034,N
+ORD-10406,Faris Kakar,aarnasen@example.net,0886877502,1987-05-31,Male,22 Aug 2022,Optimize Vertical Channels,Home and Kitchen,3470.7,8,,upi,Shipped,Surat,Tripura,837582,Yes
+ORD-10407,Meera Gour,ishani56@example.net,09881760277,1983-09-14,MALE,31/08/2022,Utilize Rich Applications,ELECTRONICS,4906.49,2,,Cash on Delivery,Returned,Bhatpara,Bihar,128516,Yes
+ORD-10408,Zehaan Venkatesh,berachatura@example.org,,2003-07-31,MALE,2022-03-09,Deliver Sticky Convergence,books,527.69,10,0.45,CREDIT CARD,,South Dumdum,Andhra Pradesh,015105,Yes
+ORD-10409,Gaurika Mistry,manya97@example.com,05718161330,1994-06-20,f,10-26-2022,Benchmark 24/365 Web-Readiness,Sports,1247.02,2,0.38,COD,Shipped,Tinsukia,Maharashtra,061056,yes
+ORD-10410,Ria Dua,manizaid@example.org,+914708226990,1974-12-28,f,2022-12-18,Enable Plug-And-Play E-Tailers,Sports & Outdoors,1863.99,8,0.05,upi,Returned,Varanasi,Madhya Pradesh,950511,Y
+ORD-10411,Falak Pal,wgarde@example.org,9968407735,2002-05-27,male,12 Apr 2023,Monetize Plug-And-Play Systems,home & kitchen,3823.25,9,0.04,Cash on Delivery,Delivered,Bijapur,Maharashtra,602195,no
+ORD-10412,Vihaan Rama,zansi99@example.org,06431965673,1996-12-20,female,01 Oct 2023,Utilize Innovative Methodologies,Clothing,4479.04,6,0.5,Cash on Delivery,,Anand,Tamil Nadu,295049,no
+ORD-10413,Bahadurjit Sharaf,pillayraksha@example.org,3412691119,1998-07-24,male,2024-12-06,Monetize Impactful Paradigms,BOOKS,4890.37,4,0.3,Net Banking,Delivered,Fatehpur,Bihar,311799,no
+ORD-10414,Harsh Butala,dalaja78@example.net,1610545038,2002-11-19,,10-19-2024,Generate Cross-Media E-Business,Sports,4718.96,10,0.49,COD,Pending,Visakhapatnam,Kerala,610115,no
+ORD-10415,Alexander Hari,fnayar@example.org,2525944382,1988-04-23,M,2022-08-10,Repurpose Ubiquitous Experiences,Electronics,311.62,1,0.19,upi,Shipped,Bidar,Manipur,533428,Y
+ORD-10416,Meera Kumar,harrison38@example.org,08864510715,1992-12-08,F,2022-07-17,Re-Intermediate E-Business Eyeballs,Clothing,2514.6,9,,COD,Delivered,Parbhani,Rajasthan,620463,Yes
+ORD-10417,Pratyush Rajan,djohal@example.com,4379249328,2001-05-09,F,2024-05-31,Disintermediate Cross-Media Initiatives,Electronics,2805.5,5,0.08,Net Banking,Shipped,Yamunanagar,Bihar,493310,no
+ORD-10418,Akshay Sunder,harshilbora@example.org,06637006045,1966-12-20,f,2024-09-25,Iterate Efficient Convergence,Books,2833.16,1,0.25,Net Banking,Cancelled,Karaikudi,Telangana,036951,
+ORD-10419,Aarnav Kapadia,rishi92@example.org,1636909540,1998-09-27,Female,08-06-2023,Target Transparent Markets,Clothng,2940.64,6,0.21,upi,Returned,Kishanganj,Gujarat,688387,N
+ORD-10420,Nathan Radhakrishnan,udarsh11@example.com,2363305001,1966-04-19,other,16/05/2023,Disintermediate Virtual Synergies,electronics,616.63,9,0.23,Net Banking,Cancelled,Dharmavaram,Maharashtra,583430,no
+ORD-10421,Tarak Kapadia,sachilall@example.com,+913789759264,1988-01-13,female,2023-07-01,Aggregate Robust Content,Books,2884.07,2,0.1,Cash on Delivery,Cancelled,Raebareli,Mizoram,171039,N
+ORD-10422,Lucky Bhakta,unnati55@example.com,5201625239,1967-06-25,F,27/11/2023,Matrix B2B Markets,books,3946.39,9,0.13,UPI,Cancelled,Udupi,Odisha,486847,No
+ORD-10423,Kavya Dugar,chokshimeghana@example.net,01028185894,1993-03-10,f,2022-07-08,Matrix Extensible Mindshare,Home and Kitchen,1769.22,5,0.15,COD,Pending,Deoghar,Chhattisgarh,084850,no
+ORD-10424,Indira Batra,llal@example.com,4714164924,1974-03-20,Other,30 May 2023,Disintermediate Strategic Schemas,BOOKS,973.37,8,0.32,cod,Returned,Anantapuram,Kerala,527996,N
+ORD-10425,Ladli Ram,agastya48@example.net,03641688067,1960-09-16,Other,03/05/2022,Cultivate Global Systems,Sports,2205.17,2,0.42,UPI,Pending,Chandrapur,Haryana,501993,yes
+ORD-10426,Jhalak Prabhu,parmartripti@example.org,,1992-08-06,,29 Apr 2023,Brand Killer Architectures,Sports & Outdoors,2452.64,7,0.02,CREDIT CARD,Pending,Bhavnagar,Goa,628686,yes
+ORD-10427,Garima Tripathi,,01889652014,1961-09-20,,23/07/2023,Streamline Rich Methodologies,Electronics,4487.7,5,0.45,Net Banking,Pending,Hubli–Dharwad,Karnataka,222677,Yes
+ORD-10428,George Memon,lajita40@example.org,+913679720160,1998-08-07,male,23/03/2024,Enhance One-To-One E-Services,home & kitchen,2923.08,9,0.44,Debit Card,Cancelled,Davanagere,West Bengal,908559,
+ORD-10429,Fitan Agarwal,omya07@example.net,09467393179,1970-09-06,other,10-04-2023,Deliver Granular Relationships,Clothing,1129.14,4,0.22,UPI,Cancelled,Aurangabad,Telangana,607823,Y
+ORD-10430,Harish Narula,liam22@example.com,+912305078941,1966-12-04,MALE,2024-02-07,Exploit Rich Channels,Sports,1846.84,5,,cod,Delivered,Noida,Uttar Pradesh,933976,N
+ORD-10431,Ishani Kuruvilla,rudra00@example.com,06388053578,1984-10-20,other,22/04/2022,Innovate Dot-Com Infrastructures,Clothng,3441.98,4,0.19,Net Banking,Pending,Kochi,West Bengal,849919,
+ORD-10432,Caleb Basak,kevin88@example.org,9255698891,1967-09-13,Other,04-28-2023,Integrate Robust Roi,Clothng,3845.37,1,0.04,Cash on Delivery,Returned,Mirzapur,Haryana,376080,
+ORD-10433,Ayushman Chandran,ikshitaprabhakar@example.net,4924421182,2003-11-07,other,13 Nov 2023,Visualize 24/7 Solutions,clothing,1791.69,9,0.23,Credit Card,Delivered,Korba,West Bengal,205737,No
+ORD-10434,,christopher14@example.com,05388947452,1965-05-07,FEMALE,27/06/2024,Morph 24/7 Applications,electronics,1285.54,3,,,,Bhatpara,Goa,469200,N
+ORD-10435,Saanvi Sandal,fdugar@example.com,2289567592,2006-08-05,MALE,10-01-2022,Exploit B2C E-Business,Clothing,1869.62,7,0.44,Debit Card,Delivered,Ichalkaranji,Arunachal Pradesh,083525,Y
+ORD-10436,Jairaj Vala,guptakaran@example.net,03620692238,2005-09-19,M,2023-04-14,Empower Seamless Channels,Electronics,2173.07,2,0.09,cod,Delivered,,Nagaland,655638,Y
+ORD-10437,Krisha Bhakta,csundaram@example.net,1742810606,1965-12-26,m,10 Jun 2024,Innovate Magnetic Eyeballs,Clothing,4076.39,8,0.22,Debit Card,Cancelled,Gandhidham,Chhattisgarh,032914,
+ORD-10438,Ayaan Ravi,rswaminathan@example.com,8063777065,1968-01-21,MALE,03/08/2023,Embrace Innovative Roi,clothing,2282.33,10,0.23,Credit Card,Returned,Mathura,Arunachal Pradesh,303149,yes
+ORD-10439,Nimrat Pandey,girindra33@example.com,07572163482,1996-09-02,MALE,25/03/2024,Revolutionize Intuitive Metrics,electronics,340.82,4,0.18,cod,,Malda,Arunachal Pradesh,610989,Y
+ORD-10440,Abhimanyu Minhas,jaimaharaj@example.com,5538948289,1995-06-16,female,2022-04-04,Unleash B2B Content,books,4841.89,10,0.08,Cash on Delivery,Pending,Pondicherry,Maharashtra,711996,No
+ORD-10441,Veda Chokshi,chaturagill@example.com,03536911243,2002-12-07,Female,07-03-2022,Leverage Revolutionary E-Services,Electronics,2521.09,5,0.46,UPI,Pending,Raurkela Industrial Township,Gujarat,610596,
+ORD-10442,Hema Pandya,menonfrado@example.org,4504178644,1982-10-01,F,06-25-2023,Enable Proactive Solutions,Sports,2800.59,8,,CREDIT CARD,Delivered,Ramagundam,Telangana,686040,Yes
+ORD-10443,Praneel Rau,shukladarika@example.com,+912470689098,2003-11-26,F,08-21-2024,Productize Turn-Key Bandwidth,Electronics,4944.65,8,0.42,CREDIT CARD,Delivered,Coimbatore,Bihar,110864,No
+ORD-10444,Gaurav Bakshi,tnayak@example.org,+917792842775,1998-07-20,FEMALE,05/08/2023,Unleash Transparent Supply-Chains,books,2938.56,9,0.09,credit card,Shipped,Dhule,Kerala,135571,N
+ORD-10445,Chandresh Kohli,vargheseyashawini@example.com,03601450333,1979-04-18,female,07-13-2022,Extend 24/365 Deliverables,Clothng,4758.54,3,,Cash on Delivery,,Allahabad,Tamil Nadu,475378,no
+ORD-10446,Bhavika Dhar,,02323877660,1967-01-14,F,2023-07-06,Incentivize Cross-Media Models,Clothng,4999.11,10,0.43,UPI,Pending,Kanpur,West Bengal,462911,N
+ORD-10447,Eiravati Nagarajan,jagdish16@example.org,+911531363279,1998-02-04,,25 May 2022,Deliver Impactful Vortals,Sports & Outdoors,151.53,7,0.14,CREDIT CARD,Delivered,Muzaffarnagar,Meghalaya,935529,
+ORD-10448,Henry Kar,diptasunder@example.net,0320778040,2006-01-31,male,06-04-2024,Facilitate Transparent Metrics,Sports & Outdoors,1039.36,7,0.28,Net Banking,Delivered,Ujjain,Kerala,599421,
+ORD-10449,Quincy Pall,jasmit62@example.net,,1961-01-08,Female,25/01/2024,Extend Dynamic E-Business,Home and Kitchen,3255.67,8,0.32,credit card,Pending,Dhule,Himachal Pradesh,673003,Yes
+ORD-10450,Ayaan Sarin,iyengarirya@example.net,3786357822,1965-08-28,m,09-05-2024,Strategize Bricks-And-Clicks Technologies,home & kitchen,2864.25,1,0.26,Net Banking,Delivered,Kamarhati,Meghalaya,993773,N
+ORD-10451,Eesha Dyal,champakbalasubramanian@example.org,09537974033,1964-08-27,male,06-03-2023,Extend Value-Added Experiences,BOOKS,938.78,7,,Net Banking,,Sambalpur,Madhya Pradesh,233881,Y
+ORD-10452,Shivansh Edwin,upasna26@example.org,8423081930,1988-10-10,,20 Jul 2024,Disintermediate Turn-Key Action-Items,ELECTRONICS,437.19,5,0.05,COD,Delivered,,Jharkhand,933931,Yes
+ORD-10453,Kai Sehgal,harinakshibajaj@example.net,+919730481955,1979-11-26,Other,28/01/2022,Transform Web-Enabled Info-Mediaries,BOOKS,2459.28,10,0.34,Net Banking,Pending,Jalandhar,Kerala,354395,No
+ORD-10454,Teerth Kothari,,+917397437592,2005-03-25,Male,29/01/2022,Unleash Bleeding-Edge Action-Items,Clothing,768.51,9,0.15,Cash on Delivery,Shipped,Avadi,Chhattisgarh,968654,Yes
+ORD-10455,Gaurang Saran,urvi55@example.net,09407359799,2005-01-19,F,27/08/2022,Envisioneer 24/365 Channels,Home and Kitchen,2275.11,5,0.42,Credit Card,Pending,,Meghalaya,041924,N
+ORD-10456,Aarini Ratti,nakul04@example.net,+910835335723,1982-01-18,f,03 Jun 2024,Synthesize Collaborative Deliverables,clothing,2028.42,10,0.45,Cash on Delivery,Shipped,Gudivada,Tripura,773970,Y
+ORD-10457,Omaja Sule,inanda@example.org,06577564304,1985-12-14,Other,08 Feb 2022,Re-Contextualize Revolutionary Infrastructures,Home & Kitchen,628.86,6,0.22,CREDIT CARD,Pending,Imphal,Arunachal Pradesh,064284,no
+ORD-10458,Robert Yogi,mkaul@example.org,+910439743757,1970-08-30,Female,06 Dec 2023,Generate Bricks-And-Clicks Models,Books,3590.24,5,0.2,Net Banking,,Bongaigaon,Mizoram,367266,yes
+ORD-10459,Praneel Hora,vdhaliwal@example.org,8771454578,1991-09-16,Other,25/08/2024,Deploy Dynamic Technologies,Home and Kitchen,1037.45,2,0.47,Cash on Delivery,Pending,Ramgarh,Manipur,435050,Y
+ORD-10460,Janya Sethi,abeerprabhakar@example.com,00768173817,1992-12-09,M,2022-04-07,Facilitate Back-End Synergies,Sports & Outdoors,2542.22,6,0.31,credit card,Cancelled,Tumkur,Haryana,269973,yes
+ORD-10461,Triveni Balasubramanian,rnayak@example.org,04902731953,1968-08-29,M,11-28-2023,Innovate Killer Communities,Sports & Outdoors,2601.17,1,0.22,Cash on Delivery,Delivered,Tirunelveli,Himachal Pradesh,398812,
+ORD-10462,Gagan Bhakta,manehemani@example.net,08884257123,1991-11-18,m,2022-07-28,Evolve Mission-Critical Metrics,Clothng,1496.01,9,0.44,CREDIT CARD,,Shivpuri,Jharkhand,502893,
+ORD-10463,Rishi Bobal,sureshedhitha@example.net,3973305516,1984-01-27,,2022-10-10,Whiteboard Global Supply-Chains,Electronics,4055.27,9,0.13,Net Banking,Pending,Tiruchirappalli,Mizoram,963661,No
+ORD-10464,Indali Kapur,semgarima@example.com,+915046899470,1972-05-05,female,07 Nov 2022,Mesh Leading-Edge Platforms,Home and Kitchen,2604.97,1,0.39,COD,Delivered,Tadipatri,Goa,149623,yes
+ORD-10465,Forum Kanda,jagdish21@example.org,,1972-12-12,Other,02/04/2024,Cultivate Transparent Paradigms,ELECTRONICS,336.16,9,0.21,COD,Pending,Tirunelveli,Meghalaya,114285,yes
+ORD-10466,Yoshita Bahri,hiral89@example.com,09475321443,2008-03-28,M,2023-12-06,Extend Out-Of-The-Box Solutions,BOOKS,3237.2,10,0.33,upi,,Narasaraopet,Rajasthan,693013,No
+ORD-10467,Sachi Lata,hritikchaudhuri@example.net,+914801709265,1992-10-26,other,2023-09-10,Repurpose Turn-Key Users,ELECTRONICS,2726.91,9,,CREDIT CARD,Delivered,,Jharkhand,242595,
+ORD-10468,Aishani Nagarajan,kannanpahal@example.net,07451206369,1990-05-24,f,14/06/2023,Strategize Ubiquitous Supply-Chains,electronics,4215.84,9,0.02,credit card,Returned,Madhyamgram,Tamil Nadu,573642,N
+ORD-10469,Chandresh Baria,ramradha@example.org,07768848788,1968-11-16,FEMALE,11 Jan 2022,Monetize Sticky E-Business,Books,4690.82,10,0.15,cod,,South Dumdum,Chhattisgarh,688048,no
+ORD-10470,Ikshita Khatri,daraurmi@example.org,02528986953,1987-04-28,,30/11/2024,Revolutionize Intuitive Systems,Clothng,775.44,7,,Credit Card,Returned,Amaravati,Meghalaya,856665,no
+ORD-10471,Umang Baral,jeetsankar@example.org,7112064517,1989-04-20,f,16 Mar 2023,Enable Integrated Architectures,home & kitchen,4366.47,7,0.34,Cash on Delivery,,Jalandhar,Arunachal Pradesh,790931,
+ORD-10472,Arin Chaudhary,bosesneha@example.com,+919956086478,1968-03-04,other,30/11/2022,Visualize Proactive Experiences,home & kitchen,634.39,8,,CREDIT CARD,Cancelled,Sasaram,West Bengal,868184,Yes
+ORD-10473,Krishna Butala,nitara78@example.com,,1982-01-19,M,2024-04-16,Aggregate Mission-Critical Vortals,electronics,4955.55,8,,CREDIT CARD,Shipped,Ambattur,Meghalaya,864914,no
+ORD-10474,Anjali Solanki,ipant@example.org,+919683556386,2000-06-13,F,04-10-2022,Revolutionize Enterprise E-Services,Electronics,1775.81,7,0.15,Cash on Delivery,Pending,Vijayanagaram,Telangana,936683,no
+ORD-10475,Liam Rao,gauravtak@example.org,+915977853970,1965-02-19,F,29/09/2022,Drive Magnetic Paradigms,ELECTRONICS,1659.82,10,0.12,Net Banking,Pending,Jehanabad,Sikkim,896929,N
+ORD-10476,Farhan Dugar,xiti52@example.org,8918802605,1973-03-24,FEMALE,06-26-2024,Grow Holistic Info-Mediaries,books,3551.62,2,0.04,cod,Cancelled,Hospet,Bihar,181330,Yes
+ORD-10477,Benjamin Parmer,babuxavier@example.net,,1999-05-06,Other,04/12/2024,Transform Enterprise Vortals,home & kitchen,143.92,4,0.42,cod,Returned,Eluru,Uttarakhand,345881,Y
+ORD-10478,Warjas Thaker,poommen@example.com,+911883228083,1998-07-05,Female,19 Oct 2023,Syndicate Proactive Paradigms,Home & Kitchen,169.08,7,0.06,credit card,Cancelled,Bhatpara,Uttar Pradesh,725016,No
+ORD-10479,Dev Mukhopadhyay,subramanianunnati@example.org,06255829993,1974-09-11,Other,01-10-2023,Extend Compelling Eyeballs,,4807.56,1,,,,Sultan Pur Majra,Odisha,720805,yes
+ORD-10480,Daniel Setty,aarini00@example.org,+912819537863,1980-10-19,m,2024-02-09,Envisioneer Bleeding-Edge Infrastructures,Home and Kitchen,2546.89,5,,Cash on Delivery,Cancelled,Vadodara,Rajasthan,826266,no
+ORD-10481,Bhavya Mitra,nsandhu@example.com,,1962-06-22,f,01 Mar 2022,Re-Intermediate Out-Of-The-Box Interfaces,Books,1269.26,3,0.2,credit card,,Allahabad,Meghalaya,788679,
+ORD-10482,Oviya Boase,yashvirajan@example.net,+919478256847,1985-12-05,female,10-19-2022,Repurpose Magnetic Convergence,home & kitchen,54.96,10,0.49,Credit Card,Delivered,Chandigarh,Manipur,438638,no
+ORD-10483,Vrinda Mody,puriyauvani@example.com,05592022469,1963-11-19,Other,07-14-2023,Integrate Efficient Relationships,Clothing,2576.13,9,0.15,Net Banking,,Karnal,Uttar Pradesh,521543,No
+ORD-10484,Bachittar Solanki,chakrabartinathan@example.net,06267307449,1996-10-29,Other,27 Jul 2023,Integrate Real-Time Bandwidth,Clothng,4899.22,5,0.49,upi,Shipped,Aligarh,Bihar,561603,Y
+ORD-10485,Tarak Rajagopalan,issacvrishti@example.net,0374768587,1981-04-20,FEMALE,2023-11-04,Drive Cross-Media Deliverables,,-99.0,7,,,,Jamalpur,Himachal Pradesh,960550,
+ORD-10486,Timothy Choudhary,anay03@example.net,06026196197,1976-05-23,male,2022-06-08,Iterate Distributed Info-Mediaries,Clothng,1913.06,7,0.38,Credit Card,Delivered,Guwahati,Haryana,522296,No
+ORD-10487,Rayaan Zacharia,,04452288600,1970-06-12,other,2024-06-29,Empower Web-Enabled Metrics,Clothng,4090.59,4,0.25,upi,Delivered,Patna,Tripura,525130,N
+ORD-10488,Omaja Bhandari,prasadodika@example.com,04204010661,1995-10-24,MALE,2023-03-05,Incentivize One-To-One Functionalities,Books,893.86,10,0.3,CREDIT CARD,Delivered,Siliguri,Uttarakhand,350178,N
+ORD-10489,Chaitanya Kashyap,brijeshbhatia@example.org,+910177024574,1961-04-09,f,14/05/2022,Brand User-Centric Users,BOOKS,999.67,9,0.34,Cash on Delivery,Delivered,Howrah,Goa,008189,N
+ORD-10490,Vyanjana Bhat,gandhiwarhi@example.com,6276029686,2006-07-14,Other,04-17-2022,Streamline Efficient Deliverables,home & kitchen,1839.29,4,,Net Banking,Cancelled,Dhanbad,Haryana,390547,Yes
+ORD-10491,Tanish Kale,william01@example.org,0407726257,1963-07-14,other,13/03/2024,Syndicate Killer Applications,Clothing,2147.91,4,0.16,credit card,,Srinagar,Telangana,762195,Yes
+ORD-10492,Chameli Parmar,goyalgautami@example.org,06568403368,2000-09-14,Female,09 Sep 2024,Whiteboard Global Models,Sports & Outdoors,583.81,6,,COD,,Agra,Chhattisgarh,180651,
+ORD-10493,Yug Soman,tganguly@example.net,4021504340,1985-07-16,Male,2024-06-17,Facilitate Interactive Niches,Electronics,4455.91,3,,Cash on Delivery,Delivered,Navi Mumbai,Andhra Pradesh,772051,N
+ORD-10494,Jagvi Ramesh,kapureshana@example.net,,1972-09-10,female,2024-06-03,Seize Open-Source Supply-Chains,Home & Kitchen,3772.22,10,0.31,Cash on Delivery,Returned,Satna,Arunachal Pradesh,596441,no
+ORD-10495,Lakshit Date,saxenadhriti@example.org,,1977-11-16,f,07-27-2022,Deploy Visionary Mindshare,Clothng,584.63,2,0.42,cod,Shipped,Gaya,Mizoram,697535,yes
+ORD-10496,Kai Kumer,jackson44@example.org,+915686786137,1975-12-31,M,29 Dec 2023,Empower Sticky Content,Sports,682.02,9,0.38,UPI,Cancelled,Hospet,Rajasthan,168634,
+ORD-10497,Maya Vala,lbalasubramanian@example.org,+919142102108,1971-08-08,Male,26/10/2022,Exploit End-To-End E-Markets,home & kitchen,3407.59,9,0.28,Credit Card,Returned,Madanapalle,Nagaland,934445,No
+ORD-10498,Kamala Thakkar,vaishnavi48@example.com,+917294762404,1968-01-18,F,2023-02-17,Transition Ubiquitous Users,Books,4267.44,6,0.21,CREDIT CARD,Delivered,Nagercoil,Assam,163816,
+ORD-10499,Upkaar Seshadri,,8861756486,2001-06-12,m,28 Mar 2022,Iterate Wireless Schemas,Home and Kitchen,1233.14,6,0.19,Net Banking,Shipped,Sagar,Gujarat,759703,Yes
+ORD-10308,Sathvik Barad,agatetejas@example.org,00022585468,1967-02-10,,05-31-2024,Evolve Frictionless Functionalities,home & kitchen,1307.74,8,0.0,Credit Card,Pending,Sangli-Miraj & Kupwad,Andhra Pradesh,635965,Y
+ORD-10013,Indira Sule,iprabhu@example.com,,1988-07-09,male,2022-07-20,Drive 24/365 Methodologies,Sports,873.24,4,0.45,CREDIT CARD,Returned,,Uttarakhand,515492,no
+ORD-10414,Harsh Butala,dalaja78@example.net,1610545038,2002-11-19,,10-19-2024,Generate Cross-Media E-Business,Sports,4718.96,10,0.49,COD,Pending,Visakhapatnam,Kerala,610115,no
+ORD-10032,Theodore Varty,ekani12@example.net,04417214840,1964-04-24,other,04 Sep 2023,Streamline Sticky E-Business,BOOKS,3036.1,4,0.24,Net Banking,Pending,Ramagundam,Meghalaya,159240,
+ORD-10460,Janya Sethi,abeerprabhakar@example.com,00768173817,1992-12-09,M,2022-04-07,Facilitate Back-End Synergies,Sports & Outdoors,2542.22,6,0.31,credit card,Cancelled,Tumkur,Haryana,269973,yes
+ORD-10155,Vritti Bhatnagar,duagunbir@example.com,03977627339,1970-04-28,f,2024-02-12,Implement Collaborative Partnerships,home & kitchen,4354.69,1,0.18,COD,Cancelled,Guntakal,Karnataka,058488,Yes
+ORD-10249,Sachi Murty,utkarshchaudhari@example.com,09862530340,1974-12-30,Male,22 Dec 2024,Embrace Ubiquitous Mindshare,,2256.05,10,,,,Tadepalligudem,Punjab,303358,no
+ORD-10217,,tpingle@example.net,+915962695566,1968-12-08,Female,2024-03-24,Re-Contextualize Seamless Functionalities,home & kitchen,3064.8,2,0.17,UPI,,Dhule,Meghalaya,232188,yes
+ORD-10221,Ansh Dhar,spadmanabhan@example.com,8188764714,2005-07-15,F,11-10-2023,Unleash World-Class Supply-Chains,Electronics,2938.69,2,0.1,credit card,,Khandwa,Bihar,890531,yes
+ORD-10293,Pahal Palla,thakurdiya@example.net,+919283139644,1973-08-30,M,05/02/2024,Benchmark B2C Channels,BOOKS,1979.13,5,,Debit Card,,Patiala,Karnataka,314303,Y
+ORD-10132,Sudiksha Ramakrishnan,zayyansanghvi@example.org,2052168281,1985-02-16,other,2023-04-02,Synthesize Open-Source Technologies,home & kitchen,1927.42,8,0.14,credit card,Delivered,Bhilai,West Bengal,988909,no
+ORD-10465,Forum Kanda,jagdish21@example.org,,1972-12-12,Other,02/04/2024,Cultivate Transparent Paradigms,ELECTRONICS,336.16,9,0.21,COD,Pending,Tirunelveli,Meghalaya,114285,yes
+ORD-10438,Ayaan Ravi,rswaminathan@example.com,8063777065,1968-01-21,MALE,03/08/2023,Embrace Innovative Roi,clothing,2282.33,10,0.23,Credit Card,Returned,Mathura,Arunachal Pradesh,303149,yes
+ORD-10179,Wahab Chad,aarushkhurana@example.net,+916481941204,1992-11-19,Male,05-16-2022,Aggregate World-Class Roi,Clothing,2200.69,10,,CREDIT CARD,Delivered,,West Bengal,553549,No
+ORD-10497,Maya Vala,lbalasubramanian@example.org,+919142102108,1971-08-08,Male,26/10/2022,Exploit End-To-End E-Markets,home & kitchen,3407.59,9,0.28,Credit Card,Returned,Madanapalle,Nagaland,934445,No

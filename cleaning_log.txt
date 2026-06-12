@@ -1,0 +1,72 @@
+======================================================================
+[LOAD]  Rows: 515 | Columns: 18
+======================================================================
+
+── Missing Values (raw) ──
+  customer_name          13 missing  (2.52%)
+  email                  21 missing  (4.08%)
+  phone                  40 missing  (7.77%)
+  gender                 34 missing  (6.6%)
+  category               16 missing  (3.11%)
+  discount_pct          101 missing  (19.61%)
+  payment_method         21 missing  (4.08%)
+  order_status           94 missing  (18.25%)
+  city                   17 missing  (3.3%)
+  return_flag            79 missing  (15.34%)
+
+── Dtypes ──
+order_id           object
+customer_name      object
+email              object
+phone             float64
+date_of_birth      object
+gender             object
+order_date         object
+product_name       object
+category           object
+unit_price        float64
+quantity            int64
+discount_pct      float64
+payment_method     object
+order_status       object
+city               object
+state              object
+pincode             int64
+return_flag        object
+
+[DUPLICATES]  Removed 15 duplicate rows → 500 remain
+
+[DATES]  order_date standardised to ISO 8601 | Unparseable: 0
+
+[CATEGORIES]  category / payment_method / gender / return_flag / order_status standardised
+
+[MISSING]  discount_pct → imputed with median (0.26)
+           category → imputed with mode ('Books')
+           payment_method → imputed with mode ('Cash on Delivery')
+           order_status → NaN filled with 'Unknown'
+           return_flag → NaN filled with False
+           gender → NaN filled with 'Unspecified'
+
+[OUTLIERS] unit_price: 4 outliers clipped to [1.0, 7192.8]
+
+[OUTLIERS] quantity: 4 outliers clipped to [1.0, 15.5]
+
+[FEATURES]  customer_age, age_group, total_revenue, order_year/month/quarter created
+
+[FINAL DROP]  Dropped 0 rows missing critical columns
+
+======================================================================
+[DONE]  Clean dataset: 500 rows × 25 columns → cleaned_sales_data.csv
+        Remaining nulls: 86
+======================================================================
+
+── Numeric Summary (cleaned) ──
+       unit_price  quantity  discount_pct  total_revenue  customer_age
+count      500.00    500.00        500.00         500.00         500.0
+mean      2487.05      5.51          0.26        9965.31         39.93
+std       1425.00      3.01          0.13        8592.92         13.92
+min          1.00      1.00          0.00           1.20          16.0
+25%       1245.67      3.00          0.17        3204.08          28.0
+50%       2507.89      6.00          0.26        7325.84          40.0
+75%       3624.52      8.00          0.34       14601.58          53.0
+max       4999.11     15.50          0.50       44545.39          64.0
