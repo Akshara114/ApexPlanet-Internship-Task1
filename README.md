@@ -1,8 +1,5 @@
 # 📊 Task 1 — Data Immersion & Wrangling
 > **Internship Project | Sales / E-commerce Dataset**
-> Timeline: 10 Days
-
----
 
 ## 🎯 Objective
 Rapidly acquaint with the dataset and master the critical first step of any data analysis pipeline — **acquiring, cleaning, and preparing data** for downstream analytics.
@@ -123,39 +120,5 @@ See [`data_dictionary.csv`](data_dictionary.csv) for full column documentation i
 - Business relevance
 - Source notes / cleaning decisions
 
----
-
-## 📈 Key Stats (Cleaned Dataset)
-
-| Metric | Value |
-|---|---|
-| Average Order Revenue | ₹9,735 |
-| Average Customer Age | 40 years |
-| Average Discount | 26% |
-| Most Common Category | Electronics |
-| Most Common Payment | Cash on Delivery |
-
----
-
-## 🎥 LinkedIn Video Walkthrough
-*(3–5 min video — link to be added after upload)*
-
-**Video outline:**
-1. Show the raw data and describe the issues found
-2. Walk through each cleaning step in the script
-3. Compare raw vs cleaned stats
-4. Demo a quick pivot table / chart from the cleaned data
-
----
-
-## 📝 Deliverables Checklist
-
-- [x] Data dictionary (`data_dictionary.csv`)
-- [x] Cleaning script (`data_cleaning.py`)
-- [x] Cleaned dataset (`cleaned_sales_data.csv`)
-- [x] Cleaning log (`cleaning_log.txt`)
-- [ ] LinkedIn video walkthrough *(pending upload)*
-
----
 
 *Generated as part of a Data Analytics Internship — Task 1*
